@@ -30,6 +30,7 @@ def quality_evaluation_pdf(file_path):
     "month_number": None,
     "day_number": None,
     "source_file": str(file_path.name),
+    "is_outstanding": False,
     "positive_setup": 0, 
     "positive_attitude": 0, 
     "positive_preparation": 0,
@@ -133,6 +134,25 @@ def quality_evaluation_pdf(file_path):
             else:
                 logging.warning("Failed to extract Negative Comments.")
                 
+            # check if outstanding
+            total_negatives = (
+                evaluation_record["negative_setup"] +
+                evaluation_record["negative_attitude"] +
+                evaluation_record["negative_preparation"] +
+                evaluation_record["negative_curriculum"] +
+                evaluation_record["negative_teaching"] +
+                evaluation_record["negative_feedback"]
+            )
+            total_positives = (
+                evaluation_record["positive_setup"] +
+                evaluation_record["positive_attitude"] +
+                evaluation_record["positive_preparation"] +
+                evaluation_record["positive_curriculum"] +
+                evaluation_record["positive_teaching"] +
+                evaluation_record["positive_feedback"]
+            )
+            if total_negatives == 0 and total_positives > 0:
+                evaluation_record["is_outstanding"] = True
             
             # 5- date
             date_pattern = r"([a-zA-Z]+\s+\d+,[\s\n]+\d+)"
