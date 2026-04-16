@@ -4,25 +4,44 @@ from datetime import datetime
 import logging
 from pathlib import Path
 import pandas as pd
-
+from collections import Counter
 # setup logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 # Mute the underlying pdfminer library so it only reports fatal errors, not warnings
 logging.getLogger("pdfminer").setLevel(logging.ERROR)
 
-
+category_map = {
+    'S': 'Setup',
+    'A': 'Attitude',
+    'P': 'Preparation',
+    'C': 'Curriculum',
+    'T': 'Teaching',
+    'F': 'Feedback'
+}
 
 def quality_evaluation_pdf(file_path):
     evaluation_record = {
     "tutor_id": None,
     "tutor_name": None,
     "tutor_score": None,
-    "positive_comments": None,
-    "negative_comments": None,
+    # "positive_comments": None,
+    # "negative_comments": None,
     "year_number": None,
     "month_number": None,
     "day_number": None,
-    "source_file": str(file_path.name)
+    "source_file": str(file_path.name),
+    "positive_setup": 0, 
+    "positive_attitude": 0, 
+    "positive_preparation": 0,
+    "positive_curriculum": 0, 
+    "positive_teaching": 0, 
+    "positive_feedback": 0,
+    "negative_setup": 0, 
+    "negative_attitude": 0, 
+    "negative_preparation": 0,
+    "negative_curriculum": 0, 
+    "negative_teaching": 0, 
+    "negative_feedback": 0
 }
     try:
         with pdfplumber.open(file_path) as pdf:
@@ -80,7 +99,18 @@ def quality_evaluation_pdf(file_path):
                 # remove page number (page 2 of 4)
                 # Remove the page numbers
                 positive_comments = re.sub(r"Page\s+\d+\s+of\s+\d+", "", positive_comments, flags=re.IGNORECASE)
-                evaluation_record["positive_comments"] = positive_comments.strip()
+                # evaluation_record["positive_comments"] = positive_comments.strip() i don't need it now
+                positive_comments_occurences = re.findall(r"([A-Z])\s[-–]",positive_comments)
+                positive_counts = Counter(positive_comments_occurences)
+                for letter, count in positive_counts.items():
+                    # Look up the full word (e.g., 'T' becomes 'Teaching')
+                    full_category_name = category_map[letter]
+                    
+                    # Format the new column name (e.g., 'negative_teaching')
+                    column_name = f"positive_{full_category_name.lower()}"
+                    
+                    # Add it to our master dictionary
+                    evaluation_record[column_name] = count
             else:
                     logging.warning("Failed to extract Positive Comments.")
                     
@@ -92,7 +122,14 @@ def quality_evaluation_pdf(file_path):
                 negative_comments = match.group(1).strip()
                 negative_comments = re.sub(r"S-\d+","",negative_comments)
                 negative_comments = re.sub(r"Page\s+\d+\s+of\s+\d+", "", negative_comments, flags=re.IGNORECASE)
-                evaluation_record["negative_comments"] = negative_comments.strip()
+                # evaluation_record["negative_comments"] = negative_comments.strip() i don't need it now
+                negative_comments_occurences = re.findall(r"([A-Z])\s[-–]",negative_comments)
+                negative_counts = Counter(negative_comments_occurences)
+                for letter, count in negative_counts.items():
+                    full_category_name = category_map[letter]
+                    # Format the new column name (e.g., 'negative_teaching')
+                    column_name = f"negative_{full_category_name.lower()}"
+                    evaluation_record[column_name] = count
             else:
                 logging.warning("Failed to extract Negative Comments.")
                 
@@ -125,7 +162,7 @@ def quality_evaluation_pdf(file_path):
 
 def main():
     # Point this to the MAIN folder containing all the month/year sub-folders
-    root_directory = Path("./quality reports/") 
+    root_directory = Path("./test_quality_reports/") 
     
     all_extracted_data = []
     
@@ -150,7 +187,7 @@ def main():
         
         # Export straight to CSV
         output_filename = "all_tutor_evaluations.csv"
-        df.to_csv(output_filename, index=False, encoding='utf-8')
+        df.to_csv(output_filename, index=False, encoding='utf-8-sig')
         logging.info(f"Pipeline complete! Successfully saved {len(df)} records to {output_filename}")
     else:
         logging.warning("Pipeline finished, but no data was extracted.")
