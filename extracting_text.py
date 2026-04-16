@@ -2,7 +2,7 @@ import pdfplumber
 import re
 from datetime import datetime
 import logging
-
+import pandas as pd
 
 # setup logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
