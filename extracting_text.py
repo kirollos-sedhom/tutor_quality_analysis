@@ -1,10 +1,12 @@
-import pdfplumber
-import re
+import shutil # helps move files
+import pdfplumber # reads from pdf
+import re 
 from datetime import datetime
 import logging
 from pathlib import Path
 import pandas as pd
 from collections import Counter
+
 # setup logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 # Mute the underlying pdfminer library so it only reports fatal errors, not warnings
@@ -181,18 +183,28 @@ def quality_evaluation_pdf(file_path):
 
 
 def main():
+    
     # Point this to the MAIN folder containing all the month/year sub-folders
-    root_directory = Path("./test_quality_reports/") 
+    landing_zone = Path("./test_quality_reports/") 
+    archive_zone = Path("./archive_quality_reports/")
+    
+    # Ensure the archive folder actually exists before we try to move things
+    archive_zone.mkdir(parents=True, exist_ok=True)
+    
     
     all_extracted_data = []
     
     # rglob("*.pdf") recursively searches ALL sub-folders for pdfs
-    pdf_files = list(root_directory.rglob("*.pdf"))
+    pdf_files = list(landing_zone.rglob("*.pdf"))
+    
+    if not pdf_files:
+        logging.info("Landing zone is empty. Waiting for new data.")
+        return
+    
     logging.info(f"Found {len(pdf_files)} PDF files to process.")
 
     for pdf_path in pdf_files:
         logging.info(f"Processing: {pdf_path.name}")
-        
         # Run our engine
         record = quality_evaluation_pdf(pdf_path)
         
@@ -204,14 +216,34 @@ def main():
     if all_extracted_data:
         # Convert our list of dictionaries into a Pandas DataFrame
         df = pd.DataFrame(all_extracted_data)
-        
         # Export straight to CSV
-        output_filename = "all_tutor_evaluations.csv"
-        df.to_csv(output_filename, index=False, encoding='utf-8-sig')
-        logging.info(f"Pipeline complete! Successfully saved {len(df)} records to {output_filename}")
+        output_file = Path("all_tutor_evaluations.csv")
+
+        # This will be True if the file is there, False if it is brand new
+        file_already_exists = output_file.is_file()
+
+        # We set header to the OPPOSITE of file_already_exists using 'not'
+        df.to_csv(
+            output_file, 
+            mode='a', 
+            index=False, 
+            header=not file_already_exists, 
+            encoding='utf-8-sig'
+        )
+        logging.info(f"Successfully appended {len(df)} records to {output_file}")
+        
+        for pdf_path in pdf_files:
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            new_filename = f"{pdf_path.stem}_{timestamp}{pdf_path.suffix}"
+            destination = archive_zone / new_filename
+            shutil.move(str(pdf_path), str(destination))
+        
+        logging.info("All processed files moved to the archive.")    
+    
     else:
         logging.warning("Pipeline finished, but no data was extracted.")
 
 # Execute the script
 if __name__ == "__main__":
     main()
+    
