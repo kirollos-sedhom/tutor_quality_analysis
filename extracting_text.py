@@ -7,7 +7,17 @@ import logging
 from pathlib import Path
 import pandas as pd
 from collections import Counter
-
+# todo:
+    # make sure all data is clean. no bad data should enter
+    # use airflow to automate this
+    # consider migrating to sql, not csv
+    # consider separating your project into more files. extract.py transform.py  load.py main.py
+    # consider adding testing regex tests, edge cases, category extraction
+    # answer business questions
+        # Which tutors are consistently underperforming?
+        # Which category has the most negative feedback?
+        # Trend of performance over time
+    
 # setup logging
 # Added 'filename' so it writes to a log file instead of the invisible screen
 logging.basicConfig(
@@ -76,6 +86,7 @@ def quality_evaluation_pdf(file_path):
             
             # 2- tutor name: 
             pattern = r"tutor name[\s:]+(.*)"
+            
 
             # Run the search with case insensitivity
             match = re.search(pattern, pdf_text_page_one, re.IGNORECASE)    
@@ -227,7 +238,7 @@ def start_always_on_pipeline():
             previous_count = current_count
             time.sleep(5)
 
-
+        valid_pdf_paths = []
         all_extracted_data = []
         for pdf_path in pdf_files:
             
@@ -236,9 +247,16 @@ def start_always_on_pipeline():
             # Run our engine
             record = quality_evaluation_pdf(pdf_path)
             
-            # If the file was processed successfully, add it to our master list
+            # If the file was processed successfully AND has no errors, add it to our master list
             if record:
-                all_extracted_data.append(record)
+                is_valid, errors = validate_record(record)
+                
+                if is_valid:
+                    all_extracted_data.append(record)
+                    valid_pdf_paths.append(pdf_path)
+                else:
+                    logging.warning(f"Invalid record from {pdf_path.name}: {errors}")
+                    move_to_failed(pdf_path)
 
         # 4. The Output Layer (Preparing for SQL/Excel)
         if all_extracted_data:
@@ -260,19 +278,80 @@ def start_always_on_pipeline():
             )
             logging.info(f"Successfully appended {len(df)} records to {output_file}")
             
-            for pdf_path in pdf_files:
-                timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-                new_filename = f"{pdf_path.stem}_{timestamp}{pdf_path.suffix}"
-                destination = archive_zone / new_filename
-                shutil.move(str(pdf_path), str(destination))
+            for pdf_path in valid_pdf_paths:
+                try:
+                    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+                    new_filename = f"{pdf_path.stem}_{timestamp}{pdf_path.suffix}"
+                    destination = archive_zone / new_filename
+                    
+                    shutil.move(str(pdf_path), str(destination))
+                    
+                except Exception as e:
+                    logging.error(f"Failed to move {pdf_path.name}: {e}")
             
             logging.info("All processed files moved to the archive.")    
         
         else:
             logging.warning("Pipeline finished, but no data was extracted.")
         
+def validate_record(record):
+    errors = []
+    
+    # Required fields
+    if not record["tutor_id"]:
+        errors.append("Missing tutor_id")
+        
+    if not record["tutor_name"]:
+        errors.append("Missing tutor_name")
+    
+    # Type checks
+    try:
+        score = int(record["tutor_score"])
+        if score < 0 or score > 100:
+            errors.append("Invalid score range")
+    except:
+        errors.append("Invalid tutor_score type")
+    
+    # Date checks
+    if not all([
+        record["year_number"],
+        record["month_number"],
+        record["day_number"]
+    ]):
+        errors.append("Incomplete date")
+    
+    # Logical checks
+    total_feedback = (
+        
+                record["negative_setup"] +
+                record["negative_attitude"] +
+                record["negative_preparation"] +
+                record["negative_curriculum"] +
+                record["negative_teaching"] +
+                record["negative_feedback"]+
+                record["positive_setup"] +
+                record["positive_attitude"] +
+                record["positive_preparation"] +
+                record["positive_curriculum"] +
+                record["positive_teaching"] +
+                record["positive_feedback"]
+    )
+    
+    if total_feedback == 0:
+        errors.append("No feedback detected")
+    
+    return len(errors) == 0, errors
 
 
+
+def move_to_failed(pdf_path):
+    failed_dir = Path("./failed_quality_reports/")
+    failed_dir.mkdir(exist_ok=True)
+    
+    destination = failed_dir / pdf_path.name
+    shutil.move(str(pdf_path), str(destination))
+    
+    
 # Execute the script
 if __name__ == "__main__":
     start_always_on_pipeline()

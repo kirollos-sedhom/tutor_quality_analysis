@@ -1,0 +1,71 @@
+12:16:53 - INFO: System Online. Monitoring 'test_quality_reports' for incoming PDFs...
+12:17:33 - INFO: Incoming files detected. Waiting for transfer to complete...
+12:17:38 - INFO: Transfer stable. 10 files ready for extraction.
+12:17:38 - INFO: Processing: T-1002.pdf
+12:17:38 - WARNING: Failed to extract Tutor Score.
+12:17:38 - WARNING: Invalid record from T-1002.pdf: ['Invalid tutor_score type', 'No feedback detected']
+12:17:38 - INFO: Processing: T-1004.pdf
+12:17:39 - INFO: Processing: T-1005.pdf
+12:17:39 - INFO: Processing: T-1006.pdf
+12:17:40 - INFO: Processing: T-1008.pdf
+12:17:40 - INFO: Processing: T-1012.pdf
+12:17:41 - INFO: Processing: T-1013.pdf
+12:17:41 - INFO: Processing: T-1016.pdf
+12:17:42 - WARNING: Failed to extract Tutor Score.
+12:17:42 - WARNING: Invalid record from T-1016.pdf: ['Invalid tutor_score type', 'No feedback detected']
+12:17:42 - INFO: Processing: T-1019.pdf
+12:17:42 - INFO: Processing: T-1026.pdf
+12:17:43 - INFO: Successfully appended 8 records to all_tutor_evaluations.csv
+12:34:22 - INFO: System Online. Monitoring 'test_quality_reports' for incoming PDFs...
+12:35:02 - INFO: Incoming files detected. Waiting for transfer to complete...
+12:35:07 - INFO: Transfer stable. 10 files ready for extraction.
+12:35:07 - INFO: Processing: T-1002.pdf
+12:35:07 - WARNING: Failed to extract Tutor Score.
+12:35:07 - WARNING: Invalid record from T-1002.pdf: ['Invalid tutor_score type', 'No feedback detected']
+12:35:07 - INFO: Processing: T-1004.pdf
+12:35:08 - INFO: Processing: T-1005.pdf
+12:35:08 - INFO: Processing: T-1006.pdf
+12:35:09 - INFO: Processing: T-1008.pdf
+12:35:09 - INFO: Processing: T-1012.pdf
+12:35:10 - INFO: Processing: T-1013.pdf
+12:35:10 - INFO: Processing: T-1016.pdf
+12:35:10 - WARNING: Failed to extract Tutor Score.
+12:35:10 - WARNING: Invalid record from T-1016.pdf: ['Invalid tutor_score type', 'No feedback detected']
+12:35:10 - INFO: Processing: T-1019.pdf
+12:35:11 - INFO: Processing: T-1026.pdf
+12:35:12 - INFO: Successfully appended 8 records to all_tutor_evaluations.csv
+12:43:24 - INFO: System Online. Monitoring 'test_quality_reports' for incoming PDFs...
+12:43:44 - INFO: Incoming files detected. Waiting for transfer to complete...
+12:43:49 - INFO: Transfer stable. 10 files ready for extraction.
+12:43:49 - INFO: Processing: T-1002.pdf
+12:43:50 - WARNING: Failed to extract Tutor Score.
+12:43:50 - WARNING: Invalid record from T-1002.pdf: ['Invalid tutor_score type', 'No feedback detected']
+12:43:50 - INFO: Processing: T-1004.pdf
+12:43:50 - INFO: Processing: T-1005.pdf
+12:43:51 - INFO: Processing: T-1006.pdf
+12:43:52 - INFO: Processing: T-1008.pdf
+12:43:52 - INFO: Processing: T-1012.pdf
+12:43:53 - INFO: Processing: T-1013.pdf
+12:43:53 - INFO: Processing: T-1016.pdf
+12:43:54 - WARNING: Failed to extract Tutor Score.
+12:43:54 - WARNING: Invalid record from T-1016.pdf: ['Invalid tutor_score type', 'No feedback detected']
+12:43:54 - INFO: Processing: T-1019.pdf
+12:43:54 - INFO: Processing: T-1026.pdf
+12:43:55 - INFO: Successfully appended 8 records to all_tutor_evaluations.csv
+12:43:55 - INFO: All processed files moved to the archive.
+12:44:35 - INFO: Incoming files detected. Waiting for transfer to complete...
+12:44:40 - INFO: Transfer stable. 10 files ready for extraction.
+12:44:40 - INFO: Processing: T-1027.pdf
+12:44:41 - INFO: Processing: T-1028.pdf
+12:44:42 - INFO: Processing: T-1039.pdf
+12:44:44 - INFO: Processing: T-1043.pdf
+12:44:45 - INFO: Processing: T-1047.pdf
+12:44:46 - INFO: Processing: T-1050.pdf
+12:44:47 - INFO: Processing: T-1061.pdf
+12:44:47 - WARNING: Failed to extract Tutor Score.
+12:44:47 - WARNING: Invalid record from T-1061.pdf: ['Invalid tutor_score type', 'No feedback detected']
+12:44:47 - INFO: Processing: T-1063.pdf
+12:44:48 - INFO: Processing: T-1065.pdf
+12:44:49 - INFO: Processing: T-1068.pdf
+12:44:50 - INFO: Successfully appended 9 records to all_tutor_evaluations.csv
+12:44:50 - INFO: All processed files moved to the archive.
