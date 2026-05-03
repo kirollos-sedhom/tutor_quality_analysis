@@ -69,3 +69,20 @@
 12:44:49 - INFO: Processing: T-1068.pdf
 12:44:50 - INFO: Successfully appended 9 records to all_tutor_evaluations.csv
 12:44:50 - INFO: All processed files moved to the archive.
+13:15:58 - INFO: Starting batch extraction on 'test_quality_reports'...
+13:15:58 - INFO: Found 9 files. Beginning extraction.
+13:15:58 - INFO: Processing: T-1002.pdf
+13:15:58 - WARNING: Failed to extract Tutor Score.
+13:15:58 - WARNING: Invalid record from T-1002.pdf: ['Invalid tutor_score type', 'No feedback detected']
+13:15:58 - INFO: Processing: T-1004.pdf
+13:15:59 - INFO: Processing: T-1005.pdf
+13:15:59 - INFO: Processing: T-1006.pdf
+13:16:00 - INFO: Processing: T-1008.pdf
+13:16:00 - INFO: Processing: T-1012.pdf
+13:16:01 - INFO: Processing: T-1013.pdf
+13:16:01 - INFO: Processing: T-1016.pdf
+13:16:01 - WARNING: Failed to extract Tutor Score.
+13:16:01 - WARNING: Invalid record from T-1016.pdf: ['Invalid tutor_score type', 'No feedback detected']
+13:16:01 - INFO: Processing: T-1019.pdf
+13:16:02 - INFO: Successfully appended 7 records to all_tutor_evaluations.csv
+13:16:02 - INFO: All processed files moved to the archive.

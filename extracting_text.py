@@ -8,12 +8,12 @@ from pathlib import Path
 import pandas as pd
 from collections import Counter
 # todo:
-    # make sure all data is clean. no bad data should enter
+    # make sure all data is clean. no bad data should enter ✅
     # use airflow to automate this
     # consider migrating to sql, not csv
     # consider separating your project into more files. extract.py transform.py  load.py main.py
     # consider adding testing regex tests, edge cases, category extraction
-    # answer business questions
+    # use powerBI to answer business questions. examples:
         # Which tutors are consistently underperforming?
         # Which category has the most negative feedback?
         # Trend of performance over time
@@ -207,40 +207,27 @@ def start_always_on_pipeline():
     landing_zone.mkdir(parents=True, exist_ok=True)
     archive_zone.mkdir(parents=True, exist_ok=True)
     
-    logging.info(f"System Online. Monitoring '{landing_zone}' for incoming PDFs...")
+    logging.info(f"Starting batch extraction on '{landing_zone}'...")
     
-    # outer loop, keeps the script running forever
-    while True:    
+      
         
         
         # rglob("*.pdf") recursively searches ALL sub-folders for pdfs
-        pdf_files = list(landing_zone.rglob("*.pdf"))
+    pdf_files = list(landing_zone.rglob("*.pdf"))
         
         # If no files, sleep for 10 seconds and check again
-        if len(pdf_files) == 0:
-            time.sleep(10)
-            continue
+    if len(pdf_files) == 0:
+        logging.info("Landing zone is empty. Exiting batch job.")
+        return # This immediately ends the script
         
-        # The Inner Loop: The Sensor
-        logging.info("Incoming files detected. Waiting for transfer to complete...")
-        previous_count = -1
+    logging.info(f"Found {len(pdf_files)} files. Beginning extraction.")
         
-        # it helps when waiting for many files to be added in the landing zone folder
-        # waits until file count stops changing
-        while True:
-            current_files = list(landing_zone.rglob("*.pdf"))
-            current_count = len(current_files)
+        
             
-            if current_count == previous_count and previous_count != 0:
-                logging.info(f"Transfer stable. {current_count} files ready for extraction.")
-                break 
-                
-            previous_count = current_count
-            time.sleep(5)
 
-        valid_pdf_paths = []
-        all_extracted_data = []
-        for pdf_path in pdf_files:
+    valid_pdf_paths = []
+    all_extracted_data = []
+    for pdf_path in pdf_files:
             
             
             logging.info(f"Processing: {pdf_path.name}")
@@ -259,7 +246,7 @@ def start_always_on_pipeline():
                     move_to_failed(pdf_path)
 
         # 4. The Output Layer (Preparing for SQL/Excel)
-        if all_extracted_data:
+    if all_extracted_data:
             # Convert our list of dictionaries into a Pandas DataFrame
             df = pd.DataFrame(all_extracted_data)
             # Export straight to CSV
@@ -291,7 +278,7 @@ def start_always_on_pipeline():
             
             logging.info("All processed files moved to the archive.")    
         
-        else:
+    else:
             logging.warning("Pipeline finished, but no data was extracted.")
         
 def validate_record(record):
