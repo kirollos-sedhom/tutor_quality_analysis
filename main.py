@@ -24,6 +24,7 @@ def run_batch_pipeline():
     
     for pdf_path in pdf_files:
         # Step 1: Extract (Get the raw text)
+        logging.info(f"Processing: {pdf_path.name}")
         raw_text_pages = extract_text_from_pdf(pdf_path)
         
         if raw_text_pages:
@@ -38,10 +39,17 @@ def run_batch_pipeline():
                 if is_valid:
                     all_extracted_data.append(record)
                     valid_pdf_paths.append(pdf_path)
+                
                 else:
                     logging.warning(f"Invalid record from {pdf_path.name}: {errors}")
                     move_to_failed(pdf_path)
-                    
+            else:
+                logging.error(f"Transformation failed. No record generated for {pdf_path.name}.")
+                move_to_failed(pdf_path)
+                
+        else:
+            logging.error(f"Extraction failed. Could not read text from {pdf_path.name}.")
+            move_to_failed(pdf_path)
          # 4. The Output Layer (Preparing for SQL/Excel)
     if all_extracted_data:
             # Convert our list of dictionaries into a Pandas DataFrame
@@ -137,3 +145,15 @@ def move_to_failed(pdf_path):
     shutil.move(str(pdf_path), str(destination))
     
     
+    
+# --- ADD THIS TO THE VERY BOTTOM ---
+if __name__ == "__main__":
+    # Setup logging so you can see what is happening in the terminal
+    logging.basicConfig(
+        level=logging.INFO, 
+        format='%(asctime)s - %(levelname)s: %(message)s', 
+        datefmt='%H:%M:%S'
+    )
+    
+    # Actually trigger the pipeline
+    run_batch_pipeline()
