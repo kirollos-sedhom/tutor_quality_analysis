@@ -35,3 +35,863 @@ T-1013,Rahma Hassan Eladl,98,2025,7,19,T-1013.pdf,False,2,2,1,1,2,2,1,0,1,2,3,0
 T-1019,Amira Ramadan Abdelsalam,95,2025,7,19,T-1019.pdf,False,3,2,0,1,1,1,1,0,0,1,5,1
 T-1019,Amira Ramadan Abdelsalam,95,2025,7,19,T-1019.pdf,False,3,2,0,1,1,1,1,0,0,1,5,1
 T-1026,Sarah Hesham Younes,100,2025,7,19,T-1026.pdf,False,5,2,2,2,3,2,1,0,0,0,1,1
+T-1004,Nada Maher Farouk,90,2025,7,19,T-1004.pdf,False,3,3,2,2,2,1,5,3,0,0,5,1
+T-1005,Sondos Mohamed - T-1005,92,2025,7,19,T-1005.pdf,False,1,1,1,1,1,1,3,0,0,0,2,0
+T-1006,Sosanna Emad Atta,98,2025,7,19,T-1006.pdf,False,2,2,0,2,1,2,0,0,3,0,2,0
+T-1008,Andrew Zaky Naguib Zaky,99,2025,7,19,T-1008.pdf,False,3,2,1,2,1,2,1,0,1,0,1,0
+T-1012,Shrouk Fathy Ghania,96,2025,7,19,T-1012.pdf,False,2,1,1,1,2,1,0,0,1,3,3,1
+T-1013,Rahma Hassan Eladl,98,2025,7,19,T-1013.pdf,False,2,2,1,1,2,2,1,0,1,2,3,0
+T-1019,Amira Ramadan Abdelsalam,95,2025,7,19,T-1019.pdf,False,3,2,0,1,1,1,1,0,0,1,5,1
+T-1026,Sarah Hesham Younes,100,2025,7,19,T-1026.pdf,False,5,2,2,2,3,2,1,0,0,0,1,1
+T-1027,Mariam Islam Sobhy,97,2025,7,19,T-1027.pdf,False,2,3,1,2,2,1,0,0,1,0,2,1
+T-1028,Mohamed Aboelezz,97,2025,7,19,T-1028.pdf,False,0,2,0,4,1,2,3,0,0,0,6,0
+T-1039,Haidy Mohamed Amin,97,2025,7,19,T-1039.pdf,False,3,2,1,4,3,2,1,0,0,1,3,0
+T-1043,Mariam Emad Anwar,97,2025,7,19,T-1043.pdf,False,3,2,2,2,2,2,2,0,0,0,5,0
+T-1047,Dina Sayed,100,2025,7,19,T-1047.pdf,True,3,2,2,2,4,1,0,0,0,0,0,0
+T-1050,Jaklin Nady Aziz,96,2025,7,19,T-1050.pdf,False,2,2,0,2,2,2,0,0,0,0,5,0
+T-1063,Alaa Ashraf Mahmoud,99,2025,7,19,T-1063.pdf,False,2,2,2,2,2,2,3,0,1,0,1,0
+T-1065,Mariam Hussien Helmy,98,2025,7,19,T-1065.pdf,False,2,2,1,1,2,2,0,0,1,1,5,0
+T-1068,Mohamed Abdullah,95,2025,7,19,T-1068.pdf,False,2,2,1,2,0,0,4,2,0,0,5,2
+T-1078,Paula Poshra,100,2025,7,19,T-1078.pdf,False,1,1,0,1,1,0,0,0,0,0,0,1
+T-1080,Ahmed Hatem,95,2025,7,19,T-1080.pdf,False,2,2,0,3,0,2,3,0,1,0,4,0
+T-1082,Albert Magdy,94,2025,7,19,T-1082.pdf,False,3,2,0,1,2,2,0,0,1,1,8,0
+T-1085,Abdelrahman El-Bakouri,95,2025,7,19,T-1085.pdf,False,2,2,0,2,1,2,2,0,0,0,3,0
+T-1088,Wessam Algalil,89,2025,7,19,T-1088.pdf,False,3,1,1,2,2,2,5,3,2,1,7,0
+T-1090,Alaa Omar,99,2025,7,19,T-1090.pdf,False,5,3,2,5,3,1,3,0,0,0,3,2
+T-1026,Sarah Hesham Younes,100,2025,7,19,T-1026.pdf,False,5,2,2,2,3,2,1,0,0,0,1,1
+T-1027,Mariam Islam Sobhy,97,2025,7,19,T-1027.pdf,False,2,3,1,2,2,1,0,0,1,0,2,1
+T-1028,Mohamed Aboelezz,97,2025,7,19,T-1028.pdf,False,0,2,0,4,1,2,3,0,0,0,6,0
+T-1039,Haidy Mohamed Amin,97,2025,7,19,T-1039.pdf,False,3,2,1,4,3,2,1,0,0,1,3,0
+T-1043,Mariam Emad Anwar,97,2025,7,19,T-1043.pdf,False,3,2,2,2,2,2,2,0,0,0,5,0
+T-1047,Dina Sayed,100,2025,7,19,T-1047.pdf,True,3,2,2,2,4,1,0,0,0,0,0,0
+T-1050,Jaklin Nady Aziz,96,2025,7,19,T-1050.pdf,False,2,2,0,2,2,2,0,0,0,0,5,0
+T-1063,Alaa Ashraf Mahmoud,99,2025,7,19,T-1063.pdf,False,2,2,2,2,2,2,3,0,1,0,1,0
+T-1065,Mariam Hussien Helmy,98,2025,7,19,T-1065.pdf,False,2,2,1,1,2,2,0,0,1,1,5,0
+T-1068,Mohamed Abdullah,95,2025,7,19,T-1068.pdf,False,2,2,1,2,0,0,4,2,0,0,5,2
+T-1078,Paula Poshra,100,2025,7,19,T-1078.pdf,False,1,1,0,1,1,0,0,0,0,0,0,1
+T-1080,Ahmed Hatem,95,2025,7,19,T-1080.pdf,False,2,2,0,3,0,2,3,0,1,0,4,0
+T-1082,Albert Magdy,94,2025,7,19,T-1082.pdf,False,3,2,0,1,2,2,0,0,1,1,8,0
+T-1085,Abdelrahman El-Bakouri,95,2025,7,19,T-1085.pdf,False,2,2,0,2,1,2,2,0,0,0,3,0
+T-1088,Wessam Algalil,89,2025,7,19,T-1088.pdf,False,3,1,1,2,2,2,5,3,2,1,7,0
+T-1090,Alaa Omar,99,2025,7,19,T-1090.pdf,False,5,3,2,5,3,1,3,0,0,0,3,2
+T-1108,Heba Adli,96,2025,7,19,T-1108.pdf,False,2,1,2,2,0,2,1,1,0,1,3,0
+T-1109,Hagar Hossam,100,2025,7,19,T-1109.pdf,True,3,2,2,3,3,2,0,0,0,0,0,0
+T-1127,Nada Essam,95,2025,7,19,T-1127.pdf,False,2,3,0,1,0,1,1,0,0,2,2,1
+T-1134,Hend Kandil,98,2025,7,19,T-1134.pdf,False,2,2,2,3,2,2,0,0,0,0,3,0
+T-1136,Lamiaa Ibrahim,99,2025,7,19,T-1136.pdf,False,2,2,0,6,2,2,0,0,0,0,5,0
+T-1151,Rahma Elsayed Soliman,99,2025,7,19,T-1151.pdf,False,1,1,0,1,1,1,0,0,2,0,1,0
+T-1153,Elbaraa Rabea,98,2025,7,19,T-1153.pdf,False,2,2,0,2,2,2,0,0,1,1,1,0
+T-1175,Ahmed Essam Saleh Mahmoud,95,2025,7,19,T-1175.pdf,False,3,2,2,2,2,2,3,0,0,1,6,0
+T-1180,Salma Khaled,93,2025,7,19,T-1180.pdf,False,1,1,0,4,2,2,5,1,2,2,6,0
+T-1181,Sara Osama Shaker,94,2025,7,19,T-1181.pdf,False,1,1,0,0,2,1,0,1,0,3,1,0
+T-1197,Hadeel Yasser,98,2025,7,19,T-1197.pdf,False,4,3,3,3,3,3,0,2,0,0,2,0
+T-1226,Mahmoud Refaat Mahmoud Ewais,98,2025,7,19,T-1226.pdf,False,3,2,1,1,2,1,1,1,0,1,2,1
+T-1227,Rana Galal Elkhouly,96,2025,7,19,T-1227.pdf,False,3,2,1,2,0,2,0,0,0,0,7,0
+T-1229,Hazem Khaled Ali,97,2025,7,19,T-1229.pdf,False,2,2,2,3,3,0,4,1,0,2,1,0
+T-1237,Dalia Eid Ali Mohamed,100,2025,7,19,T-1237.pdf,False,0,2,1,4,2,0,2,0,0,0,1,2
+T-1239,Mostafa Refaat,94,2025,7,19,T-1239.pdf,False,2,1,1,2,2,2,0,3,1,1,5,0
+T-1241,Heba Abd Elhamed Elgohary Moustafa,100,2025,7,19,T-1241.pdf,False,3,3,1,4,2,2,0,1,0,0,2,0
+T-1245,Habiba Ahmad Abdulkader,97,2025,7,19,T-1245.pdf,False,2,3,2,2,1,2,0,0,0,0,5,0
+T-1246,Sara Yasser,96,2025,7,19,T-1246.pdf,False,2,1,2,2,2,1,0,3,0,0,1,1
+T-1266,Mohamed Mahmoud Mohamed Wafy,92,2025,7,19,T-1266.pdf,False,1,1,0,2,0,0,1,3,0,0,1,1
+T-1270,Reham Adel Mohamed Deghady,92,2025,7,19,T-1270.pdf,False,3,2,1,2,1,1,3,0,1,1,5,0
+T-1293,Merahan Soliman Mohamed Soliman,98,2025,7,19,T-1293.pdf,False,2,2,1,2,1,2,0,0,2,0,3,0
+T-1297,Loay Elden Gamal Mostafa,96,2025,7,19,T-1297.pdf,False,2,2,1,2,1,2,0,1,0,2,6,0
+T-1314,Rana Zakaria Abdelwahab,92,2025,7,19,T-1314.pdf,False,3,2,0,2,2,2,3,0,2,1,7,0
+T-1315,Esraa Osama Salah El Deen Mohamed,93,2025,7,19,T-1315.pdf,False,0,1,1,1,1,2,5,2,1,1,3,0
+T-1323,Nada Ramadan Mostafa Ramadan,95,2025,7,19,T-1323.pdf,False,3,2,1,1,1,1,2,0,2,0,2,1
+T-1333,Ahmed mohamed ahmed mohamed,98,2025,7,19,T-1333.pdf,False,1,2,1,3,1,1,2,0,0,0,5,1
+T-1335,Shahd Yasser Abdelhalim Ghonim,97,2025,7,19,T-1335.pdf,False,3,3,2,3,2,3,0,1,0,1,5,0
+T-1337,Noha Abdelreheem abdelmenim,99,2025,7,19,T-1337.pdf,False,2,2,1,2,2,2,0,0,0,0,1,0
+T-1339,Abdelrahman Medhat Azab Aly Eldaly,99,2025,7,19,T-1339.pdf,False,3,1,1,4,2,2,2,2,0,0,1,0
+T-1346,Tasneem Mohamed Kamal Metwally,98,2025,7,19,T-1346.pdf,False,3,2,2,2,3,2,0,0,0,0,2,0
+T-1349,Mohamed Mostafa Mohamed Mohamed,94,2025,7,19,T-1349.pdf,False,2,1,1,2,2,1,1,1,3,0,2,1
+T-1356,Mohamed Said Ahmed Shelf,97,2025,7,19,T-1356.pdf,False,3,2,2,2,3,1,1,0,0,0,4,1
+T-1359,Rana Gamal Mohamed Mohamed,90,2025,7,19,T-1359.pdf,False,2,1,0,1,0,2,1,2,3,2,6,0
+T-1369,Nancy Khaled Abd Rabo Sharf Eldein,98,2025,7,19,T-1369.pdf,False,2,2,0,2,3,2,2,0,0,0,2,0
+T-1375,Salma Mahmoud Abdelkader Mohamed,95,2025,7,19,T-1375.pdf,False,2,1,1,2,2,2,0,2,0,2,6,0
+T-1382,islam saied kamel fayed,97,2025,7,19,T-1382.pdf,False,3,1,0,2,3,1,0,2,2,0,1,1
+T-1392,Yara Atef Abdelsattar Alfeqy,94,2025,7,19,T-1392.pdf,False,2,2,0,3,3,1,1,0,1,0,5,0
+T-1406,Rehab muhamed hussien abd el kareem,97,2025,7,19,T-1406.pdf,False,2,2,0,4,1,1,0,1,1,0,2,1
+T-1540,Eman Mohamed Abd El Fatah Morsi,97,2025,7,19,T-1540.pdf,False,3,1,1,2,1,2,0,0,0,0,2,0
+T-1542,Amany abd el hamid gomaa ali,98,2025,7,19,T-1542.pdf,False,3,2,1,3,2,2,0,0,0,1,4,0
+T-1574,Mariam hossam eldin mohamed amin,85,2025,7,19,T-1574.pdf,False,1,2,0,2,0,0,7,4,0,2,7,1
+T-1575,Shaimaa Mohamad Elbadrawy,99,2025,7,19,T-1575.pdf,False,4,3,2,5,2,2,1,1,0,1,5,1
+T-1602,abdelrhman ali mohamed ali,95,2025,7,19,T-1602.pdf,False,3,2,2,2,1,2,1,0,0,2,4,0
+T-1604,Khaled ibrahim el sayed mohamed,94,2025,7,19,T-1604.pdf,False,2,1,2,1,2,1,2,1,0,3,6,3
+T-1640,Rahma Ayman Ali Hassan,98,2025,7,19,T-1640.pdf,False,4,2,2,2,2,0,3,2,0,0,0,2
+T-1642,Mina Adel Louiz Matta Guirges,99,2025,7,19,T-1642.pdf,False,3,3,2,3,3,1,0,0,0,1,2,2
+T-1664,Ahmed Mohammed Abd-Elhamid El-Raei,96,2025,7,19,T-1664.pdf,False,2,2,0,4,3,1,2,1,1,0,3,1
+T-1666,Toka Mamdouh Moustafa Mohamed,100,2025,7,19,T-1666.pdf,False,3,2,1,4,3,2,0,0,0,0,1,0
+T-1680,Nour Ahmed Hassan Elkhiat,99,2025,7,19,T-1680.pdf,False,2,2,2,2,2,0,4,0,0,0,2,2
+T-1681,Amr Ahmed El-Sayed Ahmed,89,2025,7,19,T-1681.pdf,False,3,2,0,1,0,2,1,0,4,4,6,0
+T-1683,Yehia Mohamed Hesham Mohamed,96,2025,7,19,T-1683.pdf,False,2,2,2,1,2,2,1,0,0,2,6,0
+T-1688,Mariam sameh masry mowafek,96,2025,7,19,T-1688.pdf,False,2,2,0,2,3,0,0,1,2,0,4,2
+T-1689,Abdelrahman Ahmed Ibrahim Ali,83,2025,7,19,T-1689.pdf,False,1,1,0,2,1,1,4,2,0,2,6,1
+T-1706,Youssef Ahmed ELSayed Ahmed,96,2025,7,19,T-1706.pdf,False,2,2,1,3,0,0,1,1,0,0,4,1
+T-1708,Hoda Sherif Issa Abd El-Aziz,94,2025,7,19,T-1708.pdf,False,2,2,0,2,2,1,1,2,0,1,3,1
+T-1709,Youssef Bassam Ibrahim Hassan,92,2025,7,19,T-1709.pdf,False,4,2,1,1,2,2,4,0,2,2,3,0
+T-1717,Mohamed Osama Saeed Saad,97,2025,7,19,T-1717.pdf,False,4,3,3,3,1,2,1,0,0,0,4,1
+T-1782,Thowayba ashraf abd elaziz elemem,97,2025,7,19,T-1782.pdf,False,2,1,1,4,2,2,0,0,0,1,4,0
+T-1798,Dalia Abdelrapuf Hefzy Metwally,98,2025,7,19,T-1798.pdf,False,2,2,2,2,1,2,0,0,0,1,5,0
+T-1800,Fatma Mahmoud Mohamed Mohamed,99,2025,7,19,T-1800.pdf,False,1,1,1,1,2,1,0,1,0,0,0,0
+T-1810,Soad omar yousef Sharkawy,99,2025,7,19,T-1810.pdf,False,0,2,0,4,2,2,2,0,0,0,2,0
+T-1814,Hager Elsayed Mohamed kashkash,98,2025,7,19,T-1814.pdf,False,3,1,1,4,2,2,2,1,0,0,1,0
+T-1858,Shehab Emad Ali Abdelall,91,2025,7,19,T-1858.pdf,False,3,2,0,2,1,1,2,0,2,2,3,1
+T-1928,Abdalla Ahmed Abdalla Konsowa,100,2025,7,19,T-1928.pdf,False,2,2,1,4,3,2,2,0,0,0,0,0
+T-1929,Amira fayez mohamed mohamed gomaa,99,2025,7,19,T-1929.pdf,False,2,2,1,3,3,2,2,0,1,0,0,0
+T-1930,Ashraf Emad Rabiea Mousaa,94,2025,7,19,T-1930.pdf,False,0,1,0,3,2,0,4,2,0,2,4,2
+T-1940,Doha Ahmed Morsy Mohammed,98,2025,7,19,T-1940.pdf,False,2,1,1,3,1,2,0,1,1,0,3,0
+T-1941,Omar Mohamed Mohamed abulella,100,2025,7,19,T-1941.pdf,False,4,3,3,4,3,1,0,0,0,0,0,2
+T-1966,Muhammed Ibrahim Muhammed Muhammed,100,2025,7,19,T-1966.pdf,True,1,1,1,1,1,1,0,0,0,0,0,0
+T-1981,Mahmoud Ahmed Mohamed Elboray,99,2025,7,19,T-1981.pdf,False,5,3,2,3,3,2,2,0,0,0,2,2
+T-2068,Omar Nasser Mohy Hamed,92,2025,7,19,T-2068.pdf,False,3,2,2,2,3,2,2,3,0,0,5,0
+T-2070,Kyrollos Essam Talaat Ghali,98,2025,7,19,T-2070.pdf,False,2,2,0,3,3,1,0,1,1,1,3,1
+T-2074,Marah Mahmoud Gaber Mahmoud,99,2025,7,19,T-2074.pdf,False,2,3,1,2,1,2,0,0,0,0,2,0
+T-2079,Mariam Hussien Mohamed Elrafie,94,2025,7,19,T-2079.pdf,False,3,1,0,2,1,2,0,1,1,2,8,0
+T-2082,Ali Mostafa Ahmad Alkhashen,97,2025,7,19,T-2082.pdf,False,2,2,1,3,3,0,0,0,0,0,3,2
+T-2083,Maria Ehab Shafik Riad,100,2025,7,19,T-2083.pdf,True,2,3,1,2,2,2,0,0,0,0,0,0
+T-2087,Ahmed Salah Ahmed Helmy,96,2025,7,19,T-2087.pdf,False,3,2,1,1,0,2,1,1,0,0,4,0
+T-2093,Kareem Mohamed Abd El-Shakour Abd El-Hamid,97,2025,7,19,T-2093.pdf,False,2,2,0,3,2,2,3,0,1,2,2,0
+T-2096,Mohamed Adel Fahmy Hassan,100,2025,7,19,T-2096.pdf,False,3,2,2,2,2,2,4,0,0,0,1,0
+T-2098,Guirguis Nashat Zaki Soliman,100,2025,7,19,T-2098.pdf,False,1,1,0,1,1,1,0,0,0,0,0,1
+T-2100,Amira Hesham Mohamed Mo'men,95,2025,7,19,T-2100.pdf,False,4,0,2,2,3,1,2,3,0,0,1,3
+T-2101,Mariam Ahmed Said Abd Al Ghaffar,100,2025,7,19,T-2101.pdf,False,2,1,1,1,2,2,0,0,0,0,2,0
+T-2106,Tasnim Ahmed El-Sayed Hegazy,96,2025,7,19,T-2106.pdf,False,1,1,1,1,0,0,0,0,0,1,2,0
+T-2112,Menna Tallah Ghanem Abed El aziz Ghanem,97,2025,7,19,T-2112.pdf,False,2,2,1,2,1,2,2,1,0,1,1,0
+T-2117,KHALED ASHRAF MOHAMED ELSARTA,98,2025,7,19,T-2117.pdf,False,3,2,2,1,3,2,2,1,0,2,1,0
+T-2120,Mazen Fayad Mohamed Hosni,97,2025,7,19,T-2120.pdf,False,2,1,1,2,2,0,0,1,0,1,2,2
+T-2123,Tarek Gamal Seddik Ibrahim,100,2025,7,19,T-2123.pdf,False,3,1,2,2,3,1,2,0,0,0,0,2
+T-2125,Reham Said Mohamed Reda Elshakra,98,2025,7,19,T-2125.pdf,False,4,2,2,2,1,2,0,0,0,0,2,0
+T-2128,Al-sayed esmail aboelyazed mohamed al-agamy,98,2025,7,19,T-2128.pdf,False,2,2,2,2,3,1,1,0,0,0,3,1
+T-2129,Mennatullah ahmed abdelsalam fouad,98,2025,7,19,T-2129.pdf,False,3,2,1,3,3,1,1,0,0,0,1,1
+T-2340,Ibtihal Malik ELNasser Sayed Ahmed,99,2025,7,19,T-2340.pdf,False,2,2,1,2,1,2,2,1,0,0,0,0
+T-2433,Yasser Mohamed Metwally Salem,96,2025,7,19,T-2433.pdf,False,2,2,0,2,1,2,4,1,3,0,3,0
+T-2713,Shams Gamal Abdelazeem Elnayad,96,2025,7,19,T-2713.pdf,False,3,2,1,4,3,2,1,1,2,0,5,0
+T-2765,Fatma Abdelatty Sayed Abdelatty,97,2025,7,19,T-2765.pdf,False,2,1,1,4,2,1,1,1,0,0,2,1
+T-3245,Salma ahmed essa hassan,97,2025,7,19,T-3245.pdf,False,2,1,1,2,3,1,0,2,0,0,3,1
+T-3423,Yara Essameldin Abdelaziz Youssef,96,2025,7,19,T-3423.pdf,False,3,1,2,2,3,2,1,1,0,0,4,0
+T-3633,Mohamed Ashraf Ahmed Ebrahim,85,2025,7,19,T-3633.pdf,False,1,1,1,1,0,1,1,1,2,0,3,0
+T-3906,Areege Samir,100,2025,7,19,T-3906.pdf,False,3,2,2,2,2,2,3,0,0,0,0,0
+T-3910,Abdelrahman Mahmoud Abdelrahman Mahmoud,95,2025,7,19,T-3910.pdf,False,1,2,0,4,2,1,1,0,2,0,4,1
+T-3915,Alaa Taha Ahmed Taha,97,2025,7,19,T-3915.pdf,False,2,2,2,2,2,2,3,0,1,0,2,0
+T-3916,Toqa Mohammed Abo Bakr Elsherif,89,2025,7,19,T-3916.pdf,False,0,1,1,1,1,1,7,2,0,4,7,1
+T-3917,Mariem Ahmed,98,2025,7,19,T-3917.pdf,False,2,2,1,2,3,1,0,1,0,0,1,1
+T-3922,Mohamed Saeed Taha Mahmoud,95,2025,7,19,T-3922.pdf,False,2,2,1,4,3,2,0,2,0,0,5,0
+T-3924,Abdelrahman Talaat Hashem Abdelgayed,94,2025,7,19,T-3924.pdf,False,2,0,1,4,3,1,1,3,0,0,3,1
+T-3926,Mohamed Reda Elsayed Abdelhady,96,2025,7,19,T-3926.pdf,False,1,1,0,3,1,1,0,0,0,0,4,0
+T-3927,Mahmoud Samy Ragaa Mahmoud Samy,95,2025,7,19,T-3927.pdf,False,0,1,0,0,1,1,1,0,0,2,2,0
+T-3956,Nour Mohamed Raafat El_Tabei,97,2025,7,19,T-3956.pdf,False,3,3,2,2,1,1,2,0,1,1,3,2
+T-3965,Salma Mohamed Mohamed Elshreif,100,2025,7,19,T-3965.pdf,False,3,2,1,3,2,2,0,0,0,0,1,0
+T-3975,Nada Ibrahim Al-Sayed Ibrahim,98,2025,7,19,T-3975.pdf,False,1,1,1,2,0,1,1,1,0,0,0,0
+T-4005,Yousef Shawky Helmy Saad,99,2025,7,19,T-4005.pdf,False,4,2,2,2,3,2,0,0,0,2,1,0
+T-4006,John Medhat Kamal Azer,99,2025,7,19,T-4006.pdf,False,2,2,1,2,3,1,2,0,0,0,4,1
+T-4007,Renad Ibrahim Zain Al-abdeen Mohamed,99,2025,7,19,T-4007.pdf,False,2,2,1,3,2,2,0,0,0,0,3,0
+T-4035,Amany Labeeb Elsayed Esmail,96,2025,7,19,T-4035.pdf,False,3,1,1,1,0,2,0,1,1,1,4,0
+T-4045,Hagr Seif El-Den Mohamed Adb El-Rahman,99,2025,7,19,T-4045.pdf,False,2,2,2,2,3,1,0,0,0,0,2,2
+T-4048,Enas Ibrahim Mohamed,97,2025,7,19,T-4048.pdf,False,3,2,0,1,2,1,0,0,1,0,3,1
+T-4053,Hadeer Hamdy Mohamed,99,2025,7,19,T-4053.pdf,False,1,1,0,0,1,0,0,0,0,1,2,1
+T-4063,Nourhan Mohamed Ahmed Mohamed,98,2025,7,19,T-4063.pdf,False,3,2,2,2,3,1,3,1,0,0,0,1
+T-4076,Eman Mohamed Kamel Ahmed,99,2025,7,19,T-4076.pdf,False,3,2,2,2,2,1,1,0,0,0,1,1
+T-4079,Alaa Reda Abd el-hamed metwally,97,2025,7,19,T-4079.pdf,False,2,2,1,3,2,1,1,1,1,0,3,1
+T-4087,Mayar Maher Rashad Gad,95,2025,7,19,T-4087.pdf,False,3,0,1,2,2,2,0,2,0,0,5,0
+T-4089,Sara Waled Said Elhag,99,2025,7,19,T-4089.pdf,False,2,2,0,6,2,2,1,1,0,0,2,0
+T-4092,Ahmed Samir Sabir Elzoghby,99,2025,7,19,T-4092.pdf,False,2,2,0,2,2,2,0,0,0,1,3,0
+T-4097,Mona Yasser Zaki Mahmoud,98,2025,7,19,T-4097.pdf,False,2,2,0,2,2,1,0,0,1,0,3,2
+T-4101,Abdelrahman Gamal Sobhi Ibrahim,98,2025,7,19,T-4101.pdf,False,3,3,0,2,2,0,0,2,2,0,1,1
+T-4102,Rawan Hussein Elshahat Amin,98,2025,7,19,T-4102.pdf,False,3,2,2,1,2,2,0,0,0,2,2,0
+T-4105,Rewan Ramadan Abdelaziz Abdelrady,99,2025,7,19,T-4105.pdf,False,2,2,1,2,1,2,0,0,0,0,2,0
+T-4106,Tasneem Hatem wafeek Elazaby,100,2025,7,19,T-4106.pdf,False,3,2,1,2,2,2,1,0,0,0,2,0
+T-4118,Habiba Mahmoud Mohamed Mahmoud,95,2025,7,19,T-4118.pdf,False,2,0,0,3,2,1,0,3,1,1,3,1
+T-4126,Basmala Sameh Abdallah,94,2025,7,19,T-4126.pdf,False,1,1,0,1,0,0,0,0,0,0,4,1
+T-4128,Yassa Kamille Abdullatif Fetian,99,2025,7,19,T-4128.pdf,False,2,3,1,2,1,1,0,0,0,0,2,0
+T-4129,Alaa Mosaad Zain Elabdeen Mohamed,98,2025,7,19,T-4129.pdf,False,2,2,1,1,2,0,0,0,0,0,4,3
+T-4133,Ziad Ayman Mohammed Mohammed,93,2025,7,19,T-4133.pdf,False,2,2,2,3,1,2,1,2,0,0,5,0
+T-4138,Fatma Sobhy Mostafa Ali Anis,98,2025,7,19,T-4138.pdf,False,2,2,1,1,1,2,0,0,0,1,2,0
+T-4140,Ahmed Shams Ahmed Omran,99,2025,7,19,T-4140.pdf,False,1,2,2,2,1,2,3,0,0,0,1,0
+T-4145,Alaa Mohamed Hammad,94,2025,7,19,T-4145.pdf,False,3,1,1,2,1,0,2,2,2,4,4,3
+T-4150,Habiba Saber Hashem,97,2025,7,19,T-4150.pdf,False,3,2,1,2,3,1,0,1,0,1,3,1
+T-4151,Youssef Samy Mohamed Aly,96,2025,7,19,T-4151.pdf,False,2,0,0,4,2,2,0,2,1,0,3,0
+T-4153,Huda Hamed Mostafa Hamed,98,2025,7,19,T-4153.pdf,False,2,2,1,2,2,1,0,0,0,2,2,1
+T-4156,Kareem Saber Abdelmeniem Abdelwahab,97,2025,7,19,T-4156.pdf,False,0,2,1,3,2,2,3,1,0,1,1,0
+T-4160,Fatma Mohamed Elsayed Abdel-maboud,96,2025,7,19,T-4160.pdf,False,2,2,0,2,2,2,0,1,0,2,5,0
+T-4162,Marwa Mohamed Fouad Okasha,94,2025,7,19,T-4162.pdf,False,3,1,1,2,1,1,0,1,0,0,6,1
+T-4163,Omar Mohamed Fawzy Hassan,94,2025,7,19,T-4163.pdf,False,2,2,0,4,2,0,2,2,2,0,3,2
+T-4164,Trevina Sameh Fayez Boktor,87,2025,7,19,T-4164.pdf,False,2,0,0,2,0,0,0,3,4,0,10,2
+T-4165,Ahmed Youssef Ahmed Youssef,95,2025,7,19,T-4165.pdf,False,2,2,2,2,1,2,0,3,0,0,6,0
+T-4166,Amena Mohammed Youssef Mahmoud,100,2025,7,19,T-4166.pdf,False,1,2,1,4,4,1,0,0,0,1,0,0
+T-4168,Juliana Wael Shawky Gobran,97,2025,7,19,T-4168.pdf,False,3,4,0,2,3,1,3,2,3,1,2,1
+T-4169,Reem Atef Abd El-Twab,98,2025,7,19,T-4169.pdf,False,3,2,2,2,2,2,2,3,0,0,1,0
+T-4170,Nada Abd El Zein Abd El Megid Galeb,96,2025,7,19,T-4170.pdf,False,4,2,2,2,2,1,3,0,0,1,3,0
+T-4171,Mahmoud Mohammed Abd El Salam,100,2025,7,19,T-4171.pdf,False,3,2,1,2,3,2,0,0,0,0,1,0
+T-4172,Eslam Mohamed Sedeek Salem,98,2025,7,19,T-4172.pdf,False,2,2,1,4,2,2,1,0,0,0,3,0
+T-4174,Ahmed Atef Mohamed Kandil,98,2025,7,19,T-4174.pdf,False,2,2,1,2,2,2,0,0,1,0,3,0
+T-4177,Amal Taha Shaaban Mohamed,92,2025,7,19,T-4177.pdf,False,2,2,1,2,1,2,0,1,0,1,8,0
+T-4183,Nayera Hossam Mohamad Hassan,93,2025,7,19,T-4183.pdf,False,1,1,0,1,1,0,1,1,1,0,2,1
+T-4189,Ahmed Samir Mohamed Mohamed,100,2025,7,19,T-4189.pdf,True,2,2,2,3,2,1,0,0,0,0,0,0
+T-4191,Yasmine Hosny Hassan Mahmoud,97,2025,7,19,T-4191.pdf,False,3,2,0,2,2,2,0,0,1,0,4,0
+T-4196,Nariman mounir bushra wahba,96,2025,7,19,T-4196.pdf,False,3,1,0,2,2,2,0,1,2,0,4,0
+T-4203,Fatma Fathy Mohamed Mokhtar,98,2025,7,19,T-4203.pdf,False,4,2,2,2,2,1,1,0,0,1,2,2
+T-4213,Alaa Ali Hussein Mohamed,100,2025,7,19,T-4213.pdf,False,3,2,2,2,2,1,4,0,0,0,0,1
+T-4214,Ahmed Mohamed Ibrahim Ali,99,2025,7,19,T-4214.pdf,False,3,3,2,3,3,1,0,1,0,1,1,2
+T-4218,Mennatallah ashraf abdelhaleem,100,2025,7,19,T-4218.pdf,False,3,2,1,2,2,2,0,0,0,0,1,0
+T-4223,Reem Sayed Ahmed Mahmoud,98,2025,7,19,T-4223.pdf,False,2,3,1,2,2,1,0,0,2,0,1,1
+T-4235,Ahmed Emad,96,2025,7,19,T-4235.pdf,False,3,2,2,2,1,0,0,0,1,0,3,1
+T-4239,Fatma Mohamed Abdelmeneam Ahmed,99,2025,7,19,T-4239.pdf,False,4,2,1,2,2,2,1,0,0,1,1,0
+T-4247,Sara Atef Fawzy,84,2025,7,19,T-4247.pdf,False,3,2,1,1,3,1,1,6,2,5,1,3
+T-4262,Nourhan Khaled Ahmed Mohamed,100,2025,7,19,T-4262.pdf,False,2,2,0,4,2,2,0,0,1,0,1,0
+T-4263,Amr Khaled Mahmoud Mohmmed,98,2025,7,19,T-4263.pdf,False,3,2,2,3,3,2,1,1,0,0,2,0
+T-4265,Nourhan Elsayed Helmy Mahmoud,97,2025,7,19,T-4265.pdf,False,3,1,2,1,2,2,2,2,0,1,1,0
+T-4271,Reem Mahmoud Saleh Mohamed,100,2025,7,19,T-4271.pdf,False,2,2,1,2,3,1,1,0,0,0,1,1
+T-4272,Mostafa Ashraf Hassan Mohamed,99,2025,7,19,T-4272.pdf,False,3,2,1,1,3,2,0,0,1,2,0,0
+T-4286,Kholood Mohamed Abd Elgaber Mohamed,97,2025,7,19,T-4286.pdf,False,2,2,1,4,2,2,0,0,1,0,4,0
+T-4334,Nourelrahman Maher abdelrahman Ahmed,100,2025,7,19,T-4334.pdf,False,2,2,2,2,2,1,1,0,0,1,1,1
+T-4338,Estabrq Belal AbdElbasset Osman,95,2025,7,19,T-4338.pdf,False,2,2,1,1,1,2,0,0,0,2,2,0
+T-4348,Fawzy Ahmed Fawzy Ahmed,94,2025,7,19,T-4348.pdf,False,3,3,1,2,1,2,3,2,1,0,2,0
+T-4350,Shahd Ahmed Shookri Abd El Salam,100,2025,7,19,T-4350.pdf,False,2,1,1,2,2,1,0,1,0,0,1,1
+T-4351,Muhammad Saeed Saad Nour Eldin,96,2025,7,19,T-4351.pdf,False,2,1,2,4,2,1,1,1,1,0,3,0
+T-4354,Nada Hany Mohamed Abdulla,99,2025,7,19,T-4354.pdf,False,2,2,1,2,2,2,0,0,0,0,2,0
+T-4358,Rana Kamal Ahmed El Badry,84,2025,7,19,T-4358.pdf,False,1,1,1,1,1,1,1,1,1,0,3,0
+T-4368,Esraa Essam Hassan Abdulhady,96,2025,7,19,T-4368.pdf,False,2,2,1,4,1,0,2,1,0,0,7,2
+T-4374,Ahmad Essam Abd Alfattah Mahmoud,97,2025,7,19,T-4374.pdf,False,2,3,2,2,1,1,1,0,1,0,2,0
+T-4377,Yasmin Mohamed Awwad Emam,92,2025,7,19,T-4377.pdf,False,4,3,2,1,2,1,1,2,0,2,4,1
+T-4440,Maryam Muhammad Ibrahim Ibrahim,96,2025,7,19,T-4440.pdf,False,3,2,2,3,2,2,2,0,0,1,4,0
+T-4443,Mai Reda Abdulhamed Nawar,98,2025,7,19,T-4443.pdf,False,3,2,2,2,3,2,0,1,0,0,2,0
+T-4446,Diana tarek abdelsatttar oaf,95,2025,7,19,T-4446.pdf,False,2,0,0,4,3,1,1,3,2,0,2,1
+T-4448,Mohamed Reda Youssef Youssef,98,2025,7,19,T-4448.pdf,False,1,2,1,3,1,2,4,0,0,0,3,0
+T-4449,kirollos aziz galal aziz,100,2025,7,19,T-4449.pdf,False,1,2,1,3,2,2,2,1,0,0,1,0
+T-4450,Ola Issam Aldin Abdalfattah Radwan,97,2025,7,19,T-4450.pdf,False,1,3,3,1,3,2,1,0,0,2,4,0
+T-4451,Omar Atef Wagdy Attia,100,2025,7,19,T-4451.pdf,False,1,1,1,0,1,0,0,0,0,0,0,1
+T-4459,Doha Abdelaal Zakaria Abdelaal,92,2025,7,19,T-4459.pdf,False,1,1,1,2,3,1,3,4,0,1,4,1
+T-4479,Aya Fathy Mohamed Ibrahim,95,2025,7,19,T-4479.pdf,False,1,1,1,3,0,2,1,2,1,0,3,0
+T-4480,Natalie Amgad Ibrahim Fahim,97,2025,7,19,T-4480.pdf,False,1,1,0,1,0,1,0,0,0,0,3,0
+T-4485,Fatma Awad Ismail abdullah,94,2025,7,19,T-4485.pdf,False,4,2,2,2,3,1,4,1,0,0,4,1
+T-4491,Zainab Hossameldien Mustafa,100,2025,7,19,T-4491.pdf,False,2,2,2,2,2,2,0,0,0,1,1,0
+T-4496,Abdelrhman Fayez Ahmed El-bwadi,99,2025,7,19,T-4496.pdf,False,1,2,1,4,1,2,2,0,0,0,3,0
+T-4498,Nada Zakaria Mohamed Sayed,97,2025,7,19,T-4498.pdf,False,2,3,1,5,3,0,1,1,1,1,4,3
+T-4500,Menna T-Allah Ahmed Saeed Elmasry,95,2025,7,19,T-4500.pdf,False,2,2,1,2,1,1,2,3,1,2,4,1
+T-4504,Rahma Hashem Dahesh Abdulrahman,97,2025,7,19,T-4504.pdf,False,1,1,0,1,0,0,0,0,1,0,1,1
+T-4509,Walaa Youssef Adel Mohamed,98,2025,7,19,T-4509.pdf,False,3,3,3,3,3,2,0,0,0,0,3,0
+T-4512,Maryam Yasser Mahmoud Abdelmaksoud,100,2025,7,19,T-4512.pdf,False,5,2,2,2,3,2,2,0,0,0,1,0
+T-4514,Aya Ahmed Mohamed ElZoghby,99,2025,7,19,T-4514.pdf,False,3,4,2,5,3,3,0,1,0,0,3,0
+T-4519,Amal Yasser Arafa abdelaziz,99,2025,7,19,T-4519.pdf,False,2,2,0,3,1,1,0,0,0,2,1,1
+T-4522,Nesma Farid Mohamed Abdelrahman,97,2025,7,19,T-4522.pdf,False,1,1,1,1,0,0,2,0,0,0,1,1
+T-4526,AbdAllah Mostafa Mahmoud Alsayed,96,2025,7,19,T-4526.pdf,False,2,3,1,4,3,1,0,0,0,0,6,1
+T-4538,Marina Magdy abdou salama,96,2025,7,19,T-4538.pdf,False,2,2,1,2,1,1,1,1,1,1,2,2
+T-4541,Nour Allah Ahmed Abbas Khalil,97,2025,7,19,T-4541.pdf,False,1,1,1,1,0,1,0,0,0,0,1,0
+T-4545,Dai yaseen mohamed dawey,98,2025,7,19,T-4545.pdf,False,3,1,2,3,2,2,0,1,0,0,1,0
+T-4558,Viola George Kamal Mansour,97,2025,7,19,T-4558.pdf,False,2,3,1,2,2,2,1,0,1,0,3,0
+T-4562,Mennatullah Sayed Abo-ElHgag,100,2025,7,19,T-4562.pdf,True,3,2,2,3,3,2,0,0,0,0,0,0
+T-4563,Mayar Nasser Mahmoud,98,2025,7,19,T-4563.pdf,False,2,2,1,3,1,2,0,1,0,0,3,0
+T-4567,Amira Badawy Ismail Abouelezz,98,2025,7,19,T-4567.pdf,False,1,1,1,2,3,1,4,0,0,1,0,1
+T-4571,Nada Abdulraheem Abdulraheem Nour,91,2025,7,19,T-4571.pdf,False,2,1,1,2,3,1,0,4,0,3,4,1
+T-4585,Marina Mourad Nassif Garas,96,2025,7,19,T-4585.pdf,False,2,4,2,3,1,1,1,0,0,0,7,1
+T-4591,Renad Haitham Mohamed Asaad,96,2025,7,19,T-4591.pdf,False,2,1,1,2,3,2,6,0,0,1,4,0
+T-4594,Sara Sameh Dabea Botros,96,2025,7,19,T-4594.pdf,False,2,3,2,2,3,2,0,0,0,1,3,0
+T-4602,Toqa khaled Desawe Mahmoud,98,2025,7,19,T-4602.pdf,False,3,2,1,2,0,1,0,0,1,0,3,1
+T-4604,salma alaa abdalraouf qassem,95,2025,7,19,T-4604.pdf,False,4,4,2,2,2,2,1,2,0,1,5,0
+T-4613,Ahmed Mohamed Aboamra Ali,97,2025,7,19,T-4613.pdf,False,5,3,2,2,4,2,2,0,2,0,2,0
+T-4620,Youssef Mohamed Ahmed El-Sayed,98,2025,7,19,T-4620.pdf,False,4,2,0,2,2,1,2,0,2,0,0,1
+T-4623,Mena Allah Salah Salem Elshahwey,98,2025,7,19,T-4623.pdf,False,1,2,1,2,1,2,2,0,0,1,2,0
+T-4625,aya rafaat metwaly metwaly,94,2025,7,19,T-4625.pdf,False,2,2,1,2,1,1,1,2,1,0,5,1
+T-4631,Yasmeen Mahmoud Samy Mahmoud,99,2025,7,19,T-4631.pdf,False,6,3,3,4,2,1,1,0,1,1,5,1
+T-4652,Mo'men Mahmoud Gharib Hafez,98,2025,7,19,T-4652.pdf,False,2,2,1,4,2,2,0,1,0,0,3,0
+T-4666,Kerolos Assad Shamloul Fekry,97,2025,7,19,T-4666.pdf,False,2,2,2,2,2,1,1,0,0,1,2,0
+T-4670,Ahmed Tarek Mohamed Abd El-Razik,95,2025,7,19,T-4670.pdf,False,1,1,1,1,0,0,0,1,0,0,1,1
+T-4679,Mohamed Hamed Dardeer Ali,97,2025,7,19,T-4679.pdf,False,2,1,1,4,2,2,0,2,1,0,2,0
+T-4690,Marina elqs Domadious Habib Ibrahim,99,2025,7,19,T-4690.pdf,False,2,2,3,2,1,1,0,0,0,0,2,0
+T-4692,Amira Magdy Mohamed Abdelkader,96,2025,7,19,T-4692.pdf,False,2,2,1,3,2,3,2,0,0,1,1,0
+T-4693,Marwa Mohammed Elsayed Mohammed,98,2025,7,19,T-4693.pdf,False,2,1,1,2,2,1,2,1,1,1,0,1
+T-4694,Nancy Alaa Fawzy Mouris,98,2025,7,19,T-4694.pdf,False,3,2,3,2,3,0,1,1,0,0,2,3
+T-4999,Lena Wael Mohamed Hassan,99,2025,7,19,T-4999.pdf,False,1,1,2,1,0,1,0,0,0,0,1,0
+T-5007,Omar Ayman AbuBakr AbuBakr Mohamed,100,2025,7,19,T-5007.pdf,False,3,2,2,1,2,2,0,0,0,1,0,0
+T-5015,Mennatulla Hisham Shaaban,99,2025,7,19,T-5015.pdf,False,2,2,2,2,2,0,2,0,0,0,1,1
+T-5019,Noha Adel Ibraheem El-Basiouny,97,2025,7,19,T-5019.pdf,False,3,3,3,3,1,2,4,0,0,0,4,2
+T-5020,Mariam Ahmed Elsheikh,93,2025,7,19,T-5020.pdf,False,2,2,1,3,1,1,0,0,1,3,2,1
+T-5028,Ereeny Adel Dahy Nageeb,96,2025,7,19,T-5028.pdf,False,2,2,1,2,1,0,1,0,2,1,3,2
+T-5029,Hanan Sameh Hasan ElSherif,97,2025,7,19,T-5029.pdf,False,3,2,1,2,2,0,1,0,0,1,3,3
+T-5037,Amr Mohamed Moaz Mounayer,91,2025,7,19,T-5037.pdf,False,3,2,2,2,0,1,7,1,0,2,7,2
+T-5042,Shaza anssar mohamed ahmed,90,2025,7,19,T-5042.pdf,False,1,0,1,2,1,0,0,2,0,2,1,1
+T-5049,Abdullah Emad Fathallah Ahmed,97,2025,7,19,T-5049.pdf,False,2,3,1,1,2,2,1,1,1,2,2,0
+T-5054,Hager Yasser Ibraheim Sileem,92,2025,7,19,T-5054.pdf,False,0,1,0,0,0,1,1,0,0,1,4,0
+T-5070,Sarah Atif,95,2025,7,19,T-5070.pdf,False,2,3,2,2,2,1,0,1,0,1,4,1
+T-5080,Mohammed Alaa AbdElaleem Elsehemy,100,2025,7,19,T-5080.pdf,False,1,2,1,1,2,0,0,0,0,0,0,2
+T-6229,Mohamed Mubarak,99,2025,7,19,T-6229.pdf,False,2,2,1,2,2,1,0,0,0,0,2,1
+T-6231,Mohamed Maher,98,2025,7,19,T-6231.pdf,False,2,2,1,2,2,0,0,2,0,0,0,3
+T-6233,Neda'a Eliwa,98,2025,7,19,T-6233.pdf,False,2,3,2,2,1,2,0,1,0,0,3,0
+T-6236,Omar Abd El-Aleem,99,2025,7,19,T-6236.pdf,False,2,1,2,3,3,1,1,1,0,0,0,2
+T-6237,Mariam Essam,97,2025,7,19,T-6237.pdf,False,4,3,2,3,4,0,5,0,0,0,4,3
+T-6239,Mohammed Aborezka,96,2025,7,19,T-6239.pdf,False,1,3,0,2,2,1,3,0,1,1,6,1
+T-6245,Fatma Alzahraa Mansour,97,2025,7,19,T-6245.pdf,False,3,2,2,2,4,0,0,2,0,0,2,2
+T-6246,Mohammed Nabawy,98,2025,7,19,T-6246.pdf,False,1,2,2,2,0,2,3,0,0,0,2,0
+T-6249,Hamza AlaaElDin,95,2025,7,19,T-6249.pdf,False,2,0,1,0,2,1,3,3,0,0,2,2
+T-6259,Mohamed Hamdy,97,2025,7,19,T-6259.pdf,False,4,3,2,6,2,2,3,2,1,0,4,1
+T-6260,Ahmed Mohamed,99,2025,7,19,T-6260.pdf,False,4,3,3,3,4,1,2,0,0,0,1,4
+T-6266,Amal Hany,100,2025,7,19,T-6266.pdf,False,4,2,1,3,3,2,2,0,0,0,0,0
+T-6268,Saeed Nasr,99,2025,7,19,T-6268.pdf,False,2,1,1,1,2,1,0,1,0,1,0,0
+T-6270,Shahd Fathy,91,2025,7,19,T-6270.pdf,False,2,2,1,3,3,1,0,2,0,3,2,2
+T-6275,Basmala Mohamad,95,2025,7,19,T-6275.pdf,False,2,2,0,2,2,0,2,1,1,1,3,2
+T-6277,Yasmine Noor Mohamed,96,2025,7,19,T-6277.pdf,False,1,1,1,2,2,1,0,1,0,1,2,0
+T-6278,Bemin Dawoud,96,2025,7,19,T-6278.pdf,False,3,2,2,2,1,1,0,0,0,1,2,0
+T-6279,Ziad Ezzat,99,2025,7,19,T-6279.pdf,False,2,3,2,2,3,2,4,0,0,0,1,0
+T-6281,Ghadah Elboudi,97,2025,7,19,T-6281.pdf,False,1,1,0,2,2,1,0,0,0,1,1,0
+T-6282,Nour El Dein Hany,91,2025,7,19,T-6282.pdf,False,2,1,1,2,1,0,2,3,0,0,6,4
+T-6287,Mohammed Adel,96,2025,7,19,T-6287.pdf,False,3,3,2,3,3,2,0,2,1,0,2,1
+T-6291,Hana Omar,92,2025,7,19,T-6291.pdf,False,2,1,1,4,3,1,1,3,1,1,5,1
+T-6298,Toka Sherif mohamed mahmud mustafa,93,2025,7,19,T-6298.pdf,False,2,1,0,2,1,1,0,2,1,0,5,1
+T-6299,Abdelrahman Mohamed,94,2025,7,19,T-6299.pdf,False,2,2,2,3,2,1,0,0,0,0,4,1
+T-6306,Habeba Ahmed Elmorsy Eldesocky,96,2025,7,19,T-6306.pdf,False,4,2,2,2,1,2,2,0,0,1,3,0
+T-6307,Rwan Sameh Helmy Abdellatif,94,2025,7,19,T-6307.pdf,False,4,3,2,1,2,2,0,3,1,2,7,1
+T-6405,Mariam Ibrahim Mohamed Ahmed,95,2025,7,19,T-6405.pdf,False,3,1,1,1,2,0,1,3,0,2,3,1
+T-6424,Hassan Mohamed Hassan Abdelrahman Sherif,92,2025,7,19,T-6424.pdf,False,6,2,2,3,3,2,1,0,0,2,10,1
+T-7017,Moatasem mohie el-dein farghaly ali,96,2025,7,19,T-7017.pdf,False,2,2,1,2,1,1,1,1,0,1,3,1
+T-7028,Mennatullah Mousa Eways Muhammed,99,2025,7,19,T-7028.pdf,False,3,2,2,2,3,2,1,0,0,0,2,0
+T-7033,Rita magdy,93,2025,7,19,T-7033.pdf,False,2,3,1,3,3,1,0,0,1,1,5,0
+T-7034,Aya Ahmed Ghobashy,95,2025,7,19,T-7034.pdf,False,3,2,2,1,2,1,0,1,0,1,5,1
+T-7037,Kawkab Gamal Ebrahim Ebrahim,94,2025,7,19,T-7037.pdf,False,2,1,1,3,1,2,0,2,1,1,4,0
+T-7040,Mona Ahmed Abd El Azim Hassan,97,2025,7,19,T-7040.pdf,False,2,2,1,1,2,1,0,0,0,1,3,0
+T-7041,zaynab salah mohamed elsayed,99,2025,7,19,T-7041.pdf,False,5,3,2,2,3,1,2,0,0,3,1,3
+T-7043,Rania Abdulmgeed Ismail Mostafa,95,2025,7,19,T-7043.pdf,False,3,2,2,3,3,2,1,3,0,1,6,1
+T-7044,Marwa Asaad Saeed Ahmed,90,2025,7,19,T-7044.pdf,False,3,2,2,2,2,0,0,5,1,2,6,3
+T-7047,Ahmed Gamal Eldesawy Ahmed Elabd,98,2025,7,19,T-7047.pdf,False,7,3,3,3,4,1,2,3,0,2,2,1
+T-7048,Alaa Saber Abdelhakeem Elsayed,99,2025,7,19,T-7048.pdf,False,6,2,2,2,2,2,2,0,0,1,1,0
+T-7060,Shaimaa Sabry Soliman saedwy,100,2025,7,19,T-7060.pdf,False,3,2,3,4,3,2,0,0,0,0,2,0
+T-7069,Omar Abdelwahab abdou Elmorsy,98,2025,7,19,T-7069.pdf,False,1,1,1,1,1,1,1,0,0,0,1,0
+T-7070,Engy Mohamed Mohamed Salem,91,2025,7,19,T-7070.pdf,False,2,0,1,2,1,1,0,4,1,0,5,1
+T-7076,Hadeer Maher Ahmed Awad,98,2025,7,19,T-7076.pdf,False,3,2,1,4,2,1,1,0,0,0,3,0
+T-7078,Mahmoud Soliman Ibrahim Mesalem,95,2025,7,19,T-7078.pdf,False,2,2,1,4,1,1,0,0,1,0,6,1
+T-7216,Sondos Mohamed - T-7216,100,2025,7,19,T-7216.pdf,False,2,2,2,2,3,1,0,0,0,0,1,0
+T-7219,fadwa radwan,95,2025,7,19,T-7219.pdf,False,1,2,1,4,2,2,1,0,2,0,5,0
+T-7220,Asmaa Elmandouh,99,2025,7,19,T-7220.pdf,False,2,2,2,2,1,2,0,0,0,2,4,0
+T-7221,Ahmed Shawky,93,2025,7,19,T-7221.pdf,False,2,1,2,1,2,2,1,5,0,3,2,0
+T-7223,Alaa Oraby,97,2025,7,19,T-7223.pdf,False,2,2,0,4,2,0,0,0,1,1,5,2
+T-7225,Pancee Muhammad Ayad,98,2025,7,19,T-7225.pdf,False,3,2,2,2,3,2,0,0,0,0,3,0
+T-7229,Steven Hany,97,2025,7,19,T-7229.pdf,False,2,1,1,2,2,1,1,2,0,0,2,1
+T-7230,Ahmed Abdelqawi,98,2025,7,19,T-7230.pdf,False,2,2,2,2,1,1,0,0,0,0,3,1
+T-7233,Sara Abozeed,98,2025,7,19,T-7233.pdf,False,2,2,2,2,2,2,0,1,0,0,2,0
+T-7243,Nada Mohamed,100,2025,7,19,T-7243.pdf,False,5,3,2,2,3,1,1,1,0,0,0,0
+T-7246,Naseem Masoud,99,2025,7,19,T-7246.pdf,False,4,2,3,1,1,1,2,0,0,2,0,1
+T-7248,Bassant Mohamed Hanii,95,2025,7,19,T-7248.pdf,False,2,2,2,2,3,2,3,0,0,2,3,0
+T-7251,Sara Waleed,100,2025,7,19,T-7251.pdf,False,3,3,3,4,4,3,0,0,0,1,0,0
+T-7253,Nourhan Farid,100,2025,7,19,T-7253.pdf,False,2,2,2,3,2,1,0,0,0,0,3,1
+T-7254,Nesreen Elshazly,99,2025,7,19,T-7254.pdf,False,3,2,2,2,4,2,2,1,0,0,1,0
+T-7255,Aia Almahrok,100,2025,7,19,T-7255.pdf,False,2,3,2,2,2,2,0,1,0,0,0,0
+T-7256,Mariam Mohamed,97,2025,7,19,T-7256.pdf,False,2,3,2,2,2,2,0,2,0,0,4,0
+T-7259,Abdelrahman Mohamed Ahmed Osman,98,2025,7,19,T-7259.pdf,False,2,2,1,3,2,1,0,1,0,2,1,1
+T-7272,Sherouk Hatem,98,2025,7,19,T-7272.pdf,False,3,2,1,2,2,2,0,1,0,1,2,0
+T-7273,Youssef Mahmoud,98,2025,7,19,T-7273.pdf,False,3,3,2,2,3,3,0,0,2,2,2,0
+T-7275,Abdallah Abdallah,91,2025,7,19,T-7275.pdf,False,4,2,1,2,2,2,1,0,1,1,7,0
+T-7276,Viola Amin,97,2025,7,19,T-7276.pdf,False,3,2,1,2,3,0,1,0,2,1,2,2
+T-7290,Sarah AboBakkr,100,2025,7,19,T-7290.pdf,False,2,3,2,2,3,1,0,1,0,0,1,1
+T-7299,Abdullatif Ahmed Mohammed,87,2025,7,19,T-7299.pdf,False,2,3,0,3,2,2,2,2,3,1,11,2
+T-7301,Asmaa Saad,99,2025,7,19,T-7301.pdf,False,4,2,1,4,2,0,2,0,0,1,1,2
+T-7308,Noha El-Menshawy,97,2025,7,19,T-7308.pdf,False,2,1,2,2,2,1,0,2,1,0,1,1
+T-7309,Menna Tarek,94,2025,7,19,T-7309.pdf,False,1,1,2,3,2,2,1,3,0,0,5,1
+T-7322,Ahmed Sabra,99,2025,7,19,T-7322.pdf,False,2,2,1,4,3,2,0,1,0,1,1,0
+T-8112,Taghreed Samir,100,2025,7,19,T-8112.pdf,False,3,2,2,3,4,2,1,0,0,1,1,0
+T-8113,Basel Owais,98,2025,7,19,T-8113.pdf,False,2,1,1,1,3,1,0,2,0,1,1,1
+T-8119,Hussam El Deen Ahmed,95,2025,7,19,T-8119.pdf,False,2,1,1,2,2,2,0,1,0,1,7,0
+T-8130,Youssef Wagdy,93,2025,7,19,T-8130.pdf,False,4,2,2,4,2,2,1,0,0,1,6,0
+T-8377,Habeba Abdelhady Mohamed Ahmed,96,2025,7,19,T-8377.pdf,False,5,3,1,2,3,3,2,1,1,3,3,0
+T-8378,Sara Youssef,94,2025,7,19,T-8378.pdf,False,2,2,0,2,1,1,1,1,1,1,6,0
+T-8380,Reham Sobhy hamdy,97,2025,7,19,T-8380.pdf,False,3,2,2,3,2,1,1,1,0,2,2,1
+T-8383,Radwa Ashraf Mohamed Elsaman,100,2025,7,19,T-8383.pdf,False,6,2,2,2,2,2,2,0,0,0,1,0
+T-8384,Dareen Mohamed Farouk,93,2025,7,19,T-8384.pdf,False,4,2,0,1,2,1,6,1,1,3,5,1
+T-8385,Ansary Gadallah Shehata Alansary,92,2025,7,19,T-8385.pdf,False,2,2,0,2,2,2,2,0,2,0,11,0
+T-8388,Shahd Ashraf Sayed Ahmed,90,2025,7,19,T-8388.pdf,False,2,1,0,3,0,2,1,3,3,0,7,0
+T-8389,Esraa Muhammad abdelhady abdelhay,95,2025,7,19,T-8389.pdf,False,3,1,1,1,2,2,4,1,1,2,2,0
+T-8390,Mervat Magdy Ibrahim Maghawry,99,2025,7,19,T-8390.pdf,False,2,2,0,2,2,2,1,0,0,2,1,0
+T-8392,Mostafa Eid Hassan Naeem,97,2025,7,19,T-8392.pdf,False,2,2,2,3,3,1,0,0,0,0,3,1
+T-8393,Germin Samaan Gadallah Samaan,97,2025,7,19,T-8393.pdf,False,4,3,1,3,2,1,1,2,0,1,3,1
+T-8394,Rehab Khaled Fathy Elesawy,92,2025,7,19,T-8394.pdf,False,5,2,1,2,4,3,2,2,0,2,10,0
+T-8395,Olfat Rady Abdeljwad,97,2025,7,19,T-8395.pdf,False,2,2,1,3,1,1,0,0,2,1,2,1
+T-8398,Ashrakat Hossien,97,2025,7,19,T-8398.pdf,False,2,2,1,1,3,1,0,0,0,1,3,4
+T-8405,Mohamed AbdelHalim AboElnaga Ebrahim,100,2025,7,19,T-8405.pdf,False,2,2,2,3,2,2,0,0,1,0,2,0
+T-8409,Duaa Ali Mohammed Sallam,81,2025,7,19,T-8409.pdf,False,2,1,1,2,3,0,2,6,2,2,4,3
+T-8413,Yasser Darwish Mohamed Ahmed,98,2025,7,19,T-8413.pdf,False,1,2,1,1,1,0,0,2,0,0,0,1
+T-8414,Abdallah Osama Mohamed Taha,97,2025,7,19,T-8414.pdf,False,1,2,0,0,1,1,0,0,0,0,2,0
+T-8415,Mariam Samir Boshra Habashi,98,2025,7,19,T-8415.pdf,False,2,3,1,1,1,1,1,3,0,0,3,1
+T-8417,Thomas Maged Sedky Attallah,97,2025,7,19,T-8417.pdf,False,1,2,1,1,2,1,1,2,0,0,0,0
+T-8418,Ahmed Saad Mohamed Shanb,95,2025,7,19,T-8418.pdf,False,2,2,1,1,1,2,0,0,2,1,5,0
+T-8421,Mostafa Osama Mohamed Mohamed,99,2025,7,19,T-8421.pdf,False,2,3,1,3,3,2,0,0,0,1,2,0
+T-8422,Omar Mohamed abdelgaber elsayed,74,2025,7,19,T-8422.pdf,False,1,0,0,0,1,0,3,5,2,2,6,2
+T-8441,Mahmoud Mohamed Abdelhai Elsayed,96,2025,7,19,T-8441.pdf,False,2,2,1,4,3,2,0,0,0,1,5,0
+T-8443,Abdelrahman Said Ahmed Said,95,2025,7,19,T-8443.pdf,False,2,2,1,2,1,1,3,0,0,1,3,1
+T-8446,Mariam Mahmoud Mohamed Diab,92,2025,7,19,T-8446.pdf,False,2,2,1,3,1,2,2,2,0,3,4,0
+T-8447,Khaled Fahmy Mohamed Ibrahim,100,2025,7,19,T-8447.pdf,False,1,2,1,4,2,2,2,0,0,0,3,0
+T-8448,Norhan Farid Elsabbahy Youssef Elnady,81,2025,7,19,T-8448.pdf,False,2,1,1,1,1,0,1,3,3,1,5,3
+T-8451,Aalaa Adel Adam Addullah,92,2025,7,19,T-8451.pdf,False,1,2,2,1,0,1,1,1,1,0,3,0
+T-8452,Ruaa Mostafa Abdelazeem Qasem,96,2025,7,19,T-8452.pdf,False,1,2,1,0,1,1,0,1,0,2,1,0
+T-8672,Mohamed Mostafa,97,2025,7,19,T-8672.pdf,False,1,2,1,1,2,1,0,0,0,0,2,0
+T-8676,Amr El-Zayat,97,2025,7,19,T-8676.pdf,False,1,2,1,1,0,1,0,0,0,0,2,0
+T-8681,Heba Mohamed Salah,99,2025,7,19,T-8681.pdf,False,1,2,1,1,1,1,0,0,0,0,1,0
+T-8683,Mahmoud Mohamed,97,2025,7,19,T-8683.pdf,False,1,2,1,1,1,1,1,3,0,0,0,0
+T-8687,MennaAllah Hassan,96,2025,7,19,T-8687.pdf,False,1,1,1,2,1,1,0,2,0,1,1,0
+T-8690,Nada Elzamloot,98,2025,7,19,T-8690.pdf,False,1,1,1,1,1,1,0,3,0,0,0,0
+T-8693,Moamen Mahmoud Hammam Ali,78,2025,7,19,T-8693.pdf,False,2,1,2,1,0,0,0,9,1,4,7,3
+T-8696,Sara Adel Abdelrahman Mahmoud,96,2025,7,19,T-8696.pdf,False,1,2,1,1,1,0,0,2,0,0,1,1
+T-8698,adham tawfik,89,2025,7,19,T-8698.pdf,False,2,1,2,0,4,2,0,5,0,2,3,0
+T-8699,Sara Kamal,94,2025,7,19,T-8699.pdf,False,2,3,0,2,3,0,0,2,0,1,2,2
+T-8700,Shrouk Waled,88,2025,7,19,T-8700.pdf,False,1,1,1,1,2,0,0,2,0,1,2,1
+T-8705,Abdallah Ibrahem,99,2025,7,19,T-8705.pdf,False,1,2,2,1,1,1,0,1,0,0,0,0
+T-8708,Mayar Ali,89,2025,7,19,T-8708.pdf,False,1,1,1,1,3,1,0,3,0,1,2,0
+T-8709,Renad Eid,94,2025,7,19,T-8709.pdf,False,2,4,1,1,1,1,2,5,0,1,2,1
+T-8714,Ali El-bana,96,2025,7,19,T-8714.pdf,False,1,2,1,1,1,1,0,1,1,0,1,0
+T-8718,Ahmed ELSayed,99,2025,7,19,T-8718.pdf,False,1,3,1,1,2,1,0,1,0,1,0,0
+T-8727,Nada Abo amra,99,2025,7,19,T-8727.pdf,True,1,2,1,1,3,1,0,0,0,0,0,0
+T-8731,Mahmoud Yehia Emam,93,2025,7,19,T-8731.pdf,False,1,1,1,1,1,0,1,3,0,0,0,1
+T-8736,Salma Gamaal,94,2025,7,19,T-8736.pdf,False,1,1,1,0,1,1,1,2,1,1,0,0
+T-8744,Mazen ElGaml,96,2025,7,19,T-8744.pdf,False,2,2,1,2,1,2,0,1,2,0,2,0
+T-8747,Alaa Attia,99,2025,7,19,T-8747.pdf,False,3,2,1,2,2,1,0,1,0,1,0,1
+T-8748,Adel Aboelatta,99,2025,7,19,T-8748.pdf,False,2,2,0,3,4,1,0,1,1,1,3,1
+T-8752,Emily Essam,97,2025,7,19,T-8752.pdf,False,1,1,1,1,3,1,1,1,0,1,0,0
+T-8754,Rowida Mohamed,96,2025,7,19,T-8754.pdf,False,1,1,0,0,1,1,2,1,0,0,1,0
+T-8757,Arwa Madien,98,2025,7,19,T-8757.pdf,False,1,2,1,1,2,1,1,0,1,0,0,0
+T-8758,Mazen Elsaftawy,96,2025,7,19,T-8758.pdf,False,2,6,2,0,2,1,1,2,2,1,3,1
+T-8771,Passant Hossam Selim,95,2025,7,19,T-8771.pdf,False,1,2,1,1,1,0,2,2,0,1,1,1
+T-8804,Mohamed Hussein,98,2025,7,19,T-8804.pdf,False,1,1,2,2,1,1,2,0,0,0,1,0
+T-8807,Arwa Saad,98,2025,7,19,T-8807.pdf,False,1,1,1,1,1,1,0,1,0,1,0,0
+T-8808,Mona Mahmoud,91,2025,7,19,T-8808.pdf,False,2,2,2,0,1,2,1,6,1,2,2,0
+T-8809,Maryam Amer Ali,96,2025,7,19,T-8809.pdf,False,1,2,1,1,1,1,0,0,1,0,2,0
+T-8811,Nagham Ehab,94,2025,7,19,T-8811.pdf,False,2,2,1,3,1,1,3,1,2,0,3,1
+T-8814,Mina Romany,93,2025,7,19,T-8814.pdf,False,2,4,1,1,1,1,1,4,0,0,5,1
+T-8815,Ezz Khalil,98,2025,7,19,T-8815.pdf,False,1,2,1,0,2,0,0,0,0,1,1,0
+T-8816,Mohanad Khairy,94,2025,7,19,T-8816.pdf,False,0,2,1,1,0,1,1,1,0,0,3,0
+T-8820,Asmaa Mohammed,98,2025,7,19,T-8820.pdf,False,2,3,1,2,2,1,0,3,2,0,1,1
+T-8821,John Hany,97,2025,7,19,T-8821.pdf,False,2,0,0,3,4,3,1,3,0,0,4,0
+T-8903,Islam Ali Elsayed Khattab,97,2025,7,19,T-8903.pdf,False,2,2,1,2,0,0,2,0,0,3,2,2
+T-8906,Tarek Yasser Mohamed Sharaf,91,2025,7,19,T-8906.pdf,False,3,1,1,3,2,2,3,1,0,0,6,0
+T-8909,Muhamed Sayed Saber Ali,93,2025,7,19,T-8909.pdf,False,0,2,1,1,2,0,3,0,2,1,6,2
+T-8913,Noha Omar Mahmoud Abd Elaziz,97,2025,7,19,T-8913.pdf,False,1,2,2,3,1,1,2,0,1,0,1,0
+T-8917,Kamel Hassan Kamel Soliman,98,2025,7,19,T-8917.pdf,False,4,2,2,2,3,2,0,0,1,0,2,0
+T-8918,Nourhan Alaa Eldien Hassan,96,2025,7,19,T-8918.pdf,False,3,2,2,1,3,1,1,0,1,3,2,2
+T-8927,Alyaa Mahmoud Ali Ahmed,97,2025,7,19,T-8927.pdf,False,4,3,2,2,2,0,3,1,1,1,2,2
+T-8928,Taha Elsayed Mahmoud abdel-Raziq,98,2025,7,19,T-8928.pdf,False,2,2,2,3,3,2,0,0,0,0,2,0
+T-8929,Rowaida Ali Elshaprawy Ali,93,2025,7,19,T-8929.pdf,False,1,2,1,3,1,1,3,1,2,1,7,1
+T-8945,Hossam Eldeen Ali Sayed Ali,96,2025,7,19,T-8945.pdf,False,2,1,1,4,1,1,2,2,1,0,4,1
+T-8946,Moaz Mohamed Gharieb Elsayed,96,2025,7,19,T-8946.pdf,False,2,2,2,2,1,1,0,2,0,0,2,1
+T-8948,Aya Nagib Mohamed Zaid,93,2025,7,19,T-8948.pdf,False,4,2,1,2,2,1,1,0,1,2,2,1
+T-8949,Arwa Mostafa Kamal Abdul Wahab,93,2025,7,19,T-8949.pdf,False,2,2,1,1,1,1,3,1,1,1,4,1
+T-8954,Abdelwahab Mohamed,94,2025,7,19,T-8954.pdf,False,2,2,0,4,3,2,1,1,2,0,6,0
+T-8967,Omar Hossam Elden Galal Mohammed,90,2025,7,19,T-8967.pdf,False,2,2,1,1,1,1,2,0,0,2,8,1
+T-8972,Mohamed Adel Abdelhamied Mohamed,98,2025,7,19,T-8972.pdf,False,2,3,2,3,1,2,1,0,0,0,2,0
+T-8973,Tahani Saber Slama Ahmed,99,2025,7,19,T-8973.pdf,False,2,2,1,2,1,1,0,0,0,1,4,2
+T-8975,Omar Khaled Elsayed Elasmar,88,2025,7,19,T-8975.pdf,False,1,3,0,2,1,1,1,1,5,2,7,1
+T-8976,Ahmed Mohamed ElSayed Mahmoud,98,2025,7,19,T-8976.pdf,False,2,2,1,2,0,2,1,1,1,1,3,0
+T-8977,Dina Gamal-eldin Basher Ebrahim,95,2025,7,19,T-8977.pdf,False,3,2,2,2,2,1,2,1,0,2,6,1
+T-8978,Ayman Khaled Abdelfatah Yousef,97,2025,7,19,T-8978.pdf,False,3,2,2,3,1,0,3,1,1,0,3,2
+T-8979,Ahmed Ayed Mohamed Abd El Hai Hanafi,97,2025,7,19,T-8979.pdf,False,2,1,1,3,2,1,0,2,0,0,2,1
+T-8980,Ahmed Mohamed Farid Nagy,98,2025,7,19,T-8980.pdf,False,2,2,1,1,2,2,1,0,1,1,1,0
+T-8991,Nada Ahmed Fawzy Mohammed,97,2025,7,19,T-8991.pdf,False,2,2,1,3,1,1,1,0,0,1,3,1
+T-8994,Nourhan Abdelnasser Sedek Hamed,94,2025,7,19,T-8994.pdf,False,2,2,1,2,1,2,0,0,2,0,4,0
+T-9068,Nour Khaled Ali Sewafy,95,2025,7,19,T-9068.pdf,False,1,1,0,1,0,1,1,0,2,0,0,0
+T-1004,Nada Maher Farouk,92,2025,8,19,T-1004.pdf,False,2,3,0,3,2,2,2,3,1,0,7,0
+T-1005,Sondos Mohamed - T-1005,95,2025,8,19,T-1005.pdf,False,2,2,0,3,3,1,1,2,1,0,6,1
+T-1006,Sosanna Emad Atta,100,2025,8,19,T-1006.pdf,True,2,2,1,3,1,1,0,0,0,0,0,0
+T-1008,Andrew Zaky Naguib Zaky,100,2025,8,19,T-1008.pdf,True,2,2,2,2,2,2,0,0,0,0,0,0
+T-1012,Shrouk Fathy Ghania,96,2025,8,19,T-1012.pdf,False,1,0,0,1,1,1,0,1,0,1,3,0
+T-1013,Rahma Hassan Eladl,92,2025,8,19,T-1013.pdf,False,3,3,1,2,3,2,4,1,1,1,4,0
+T-1026,Sarah Hesham Younes,98,2025,8,19,T-1026.pdf,False,2,2,1,2,3,2,0,0,0,0,3,0
+T-1028,Mohamed Aboelezz,94,2025,8,19,T-1028.pdf,False,2,2,0,2,0,1,3,0,3,0,5,1
+T-1043,Mariam Emad Anwar,87,2025,8,19,T-1043.pdf,False,2,1,1,2,1,0,2,1,2,0,7,2
+T-1047,Dina Sayed,98,2025,8,19,T-1047.pdf,False,4,2,1,2,1,2,2,0,0,0,3,0
+T-1050,Jaklin Nady Aziz,94,2025,8,19,T-1050.pdf,False,2,2,1,3,2,2,1,0,0,0,7,0
+T-1063,Alaa Ashraf Mahmoud,97,2025,8,19,T-1063.pdf,False,2,2,1,3,2,2,0,0,0,1,4,0
+T-1065,Mariam Hussien Helmy,96,2025,8,19,T-1065.pdf,False,2,2,1,2,3,1,1,2,2,0,0,1
+T-1068,Mohamed Abdullah,96,2025,8,19,T-1068.pdf,False,2,2,1,1,2,1,3,0,0,0,5,0
+T-10792,Kareem Yasser Mahmoud Omran,98,2025,8,19,T-10792.pdf,False,2,2,1,2,2,1,0,0,1,0,2,0
+T-10795,KareemEldeen Ahmed Mohamed Abdelrahim,92,2025,8,19,T-10795.pdf,False,1,1,1,3,3,1,2,3,3,0,5,2
+T-1080,Ahmed Hatem,98,2025,8,19,T-1080.pdf,False,3,2,2,3,2,1,2,1,0,0,2,0
+T-10803,Omar Mohamed Said Elattar,97,2025,8,19,T-10803.pdf,False,1,2,1,2,2,0,2,0,0,2,3,2
+T-10807,Rahma Ezzat Hassan Abd ElGaffar,93,2025,8,19,T-10807.pdf,False,3,1,2,0,3,1,2,0,1,2,5,1
+T-10809,Ziad Ibrahim Fawzy Mohamed,96,2025,8,19,T-10809.pdf,False,2,2,2,2,3,0,0,2,0,2,2,2
+T-10813,Hady Mohammed Ali AbdelAal,99,2025,8,19,T-10813.pdf,False,3,2,2,2,3,2,2,0,0,0,2,0
+T-10815,Ahmed Mohamed Mohamed Hassan,97,2025,8,19,T-10815.pdf,False,3,2,2,2,3,0,3,0,0,0,3,1
+T-1082,Albert Magdy,100,2025,8,19,T-1082.pdf,False,2,2,1,4,3,1,1,0,0,0,1,1
+T-10822,Zainab Ali El-Agamy Ali,89,2025,8,19,T-10822.pdf,False,2,1,1,1,2,2,1,5,0,2,9,0
+T-1085,Abdelrahman El-Bakouri,96,2025,8,19,T-1085.pdf,False,3,2,1,2,3,1,0,1,1,2,3,1
+T-10854,Raneem Ashraf Mohamed Mohamed,97,2025,8,19,T-10854.pdf,False,2,1,1,2,1,2,1,2,1,2,2,0
+T-10859,Ahmed Yehia Shendy Mohamed,94,2025,8,19,T-10859.pdf,False,4,2,1,2,3,1,2,0,1,0,5,1
+T-10862,Toka Kamel Mohamed Mohamed,98,2025,8,19,T-10862.pdf,False,3,2,2,2,2,0,0,0,0,1,3,2
+T-10863,Abdelrahman Fouad Ibrahim Abdallah,90,2025,8,19,T-10863.pdf,False,1,1,1,0,2,1,3,3,2,3,7,0
+T-10865,Mohamed Mostafa Mohamed Helmy,78,2025,8,19,T-10865.pdf,False,6,3,1,2,0,1,1,1,6,5,11,1
+T-10868,Aisha Hassan Roshdi Mohmed Elsayed,91,2025,8,19,T-10868.pdf,False,2,1,1,2,1,1,0,3,1,1,7,0
+T-1088,Wessam Algalil,88,2025,8,19,T-1088.pdf,False,1,2,0,0,1,2,3,1,3,3,3,0
+T-10882,Mariam Mohamed Fotouh Elmonyer,91,2025,8,19,T-10882.pdf,False,2,1,1,1,0,2,0,4,1,1,5,0
+T-10889,Abrar Ayman Mohamed Rashad,94,2025,8,19,T-10889.pdf,False,2,1,1,2,1,1,2,3,2,0,4,0
+T-1090,Alaa Omar,95,2025,8,19,T-1090.pdf,False,1,1,0,1,1,1,2,1,1,1,3,1
+T-10916,Salma Mahmoud Abobasha,94,2025,8,19,T-10916.pdf,False,2,3,2,1,3,1,0,2,0,1,7,0
+T-1106,Shimaa Magdy Abdelmagid,98,2025,8,19,T-1106.pdf,False,3,2,2,3,2,0,3,1,0,0,1,1
+T-1108,Heba Adli,96,2025,8,19,T-1108.pdf,False,2,1,1,5,3,2,1,2,0,0,2,0
+T-1109,Hagar Hossam,100,2025,8,19,T-1109.pdf,False,2,2,1,2,1,1,1,0,0,0,1,0
+T-1127,Nada Essam,99,2025,8,19,T-1127.pdf,False,3,2,1,2,2,2,2,0,0,0,5,0
+T-1134,Hend Kandil,93,2025,8,19,T-1134.pdf,False,2,3,2,1,2,1,0,1,0,2,3,0
+T-11427,Yousef Alaa Zakaria Abdelhafeez,98,2025,8,19,T-11427.pdf,False,1,1,1,0,1,1,1,0,1,1,0,0
+T-1151,Rahma Elsayed Soliman,94,2025,8,19,T-1151.pdf,False,1,0,1,1,1,1,0,2,0,1,0,0
+T-1175,Ahmed Essam Saleh Mahmoud,97,2025,8,19,T-1175.pdf,False,1,1,0,1,0,0,1,1,0,0,0,1
+T-1180,Salma Khaled,94,2025,8,19,T-1180.pdf,False,4,1,2,2,4,1,3,1,0,0,5,1
+T-1197,Hadeel Yasser,99,2025,8,19,T-1197.pdf,False,3,2,2,4,2,1,1,0,0,0,2,0
+T-1226,Mahmoud Refaat Mahmoud Ewais,99,2025,8,19,T-1226.pdf,False,2,2,2,1,2,1,3,0,0,0,0,0
+T-1227,Rana Galal Elkhouly,96,2025,8,19,T-1227.pdf,False,2,2,1,0,2,1,2,0,1,1,2,0
+T-1229,Hazem Khaled Ali,95,2025,8,19,T-1229.pdf,False,2,2,2,2,2,1,3,1,0,1,3,1
+T-1237,Dalia Eid Ali Mohamed,99,2025,8,19,T-1237.pdf,False,2,2,1,2,2,2,3,0,0,0,1,0
+T-1239,Mostafa Refaat,80,2025,8,19,T-1239.pdf,False,2,2,2,1,0,1,1,4,1,2,7,0
+T-1241,Heba Abd Elhamed Elgohary Moustafa,100,2025,8,19,T-1241.pdf,True,2,2,3,2,1,1,0,0,0,0,0,0
+T-1245,Habiba Ahmad Abdulkader,98,2025,8,19,T-1245.pdf,False,2,2,2,2,3,0,2,0,0,0,1,1
+T-1246,Sara Yasser,96,2025,8,19,T-1246.pdf,False,3,1,1,1,1,1,1,2,1,1,1,1
+T-1270,Reham Adel Mohamed Deghady,97,2025,8,19,T-1270.pdf,False,2,2,2,2,3,2,1,0,0,0,3,0
+T-1293,Merahan Soliman Mohamed Soliman,98,2025,8,19,T-1293.pdf,False,2,2,2,2,2,1,0,0,0,1,2,1
+T-1297,Loay Elden Gamal Mostafa,100,2025,8,19,T-1297.pdf,False,3,2,2,2,3,2,1,1,0,0,0,0
+T-1314,Rana Zakaria Abdelwahab,97,2025,8,19,T-1314.pdf,False,2,2,1,0,2,1,0,0,1,2,2,1
+T-1315,Esraa Osama Salah El Deen Mohamed,92,2025,8,19,T-1315.pdf,False,1,2,1,2,2,1,3,2,1,1,3,0
+T-1323,Nada Ramadan Mostafa Ramadan,93,2025,8,19,T-1323.pdf,False,2,2,0,3,1,1,5,0,3,2,3,1
+T-1333,Ahmed mohamed ahmed mohamed,99,2025,8,19,T-1333.pdf,False,2,2,1,2,0,1,2,0,0,0,1,1
+T-1335,Shahd Yasser Abdelhalim Ghonim,98,2025,8,19,T-1335.pdf,False,3,1,1,1,2,1,1,0,0,0,1,0
+T-1337,Noha Abdelreheem abdelmenim,99,2025,8,19,T-1337.pdf,False,1,1,1,1,1,1,0,0,0,1,0,0
+T-1339,Abdelrahman Medhat Azab Aly Eldaly,98,2025,8,19,T-1339.pdf,False,2,2,1,0,3,0,2,0,1,3,0,2
+T-1346,Tasneem Mohamed Kamal Metwally,93,2025,8,19,T-1346.pdf,False,4,2,2,2,1,2,1,0,0,1,4,0
+T-1349,Mohamed Mostafa Mohamed Mohamed,93,2025,8,19,T-1349.pdf,False,3,3,1,2,2,2,3,2,2,2,5,0
+T-1356,Mohamed Said Ahmed Shelf,99,2025,8,19,T-1356.pdf,False,1,1,0,1,1,1,0,1,1,0,1,0
+T-1369,Nancy Khaled Abd Rabo Sharf Eldein,98,2025,8,19,T-1369.pdf,False,2,2,0,2,1,1,1,0,1,1,2,1
+T-1375,Salma Mahmoud Abdelkader Mohamed,93,2025,8,19,T-1375.pdf,False,4,2,2,3,3,2,1,0,0,1,4,0
+T-1382,islam saied kamel fayed,94,2025,8,19,T-1382.pdf,False,3,1,1,2,0,2,1,1,1,0,5,0
+T-1392,Yara Atef Abdelsattar Alfeqy,96,2025,8,19,T-1392.pdf,False,5,3,2,2,2,2,3,1,0,1,4,0
+T-1406,Rehab muhamed hussien abd el kareem,98,2025,8,19,T-1406.pdf,False,2,2,1,3,2,1,0,0,1,1,3,0
+T-1540,Eman Mohamed Abd El Fatah Morsi,99,2025,8,19,T-1540.pdf,False,2,2,1,2,2,2,0,0,0,1,3,0
+T-1542,Amany abd el hamid gomaa ali,100,2025,8,19,T-1542.pdf,False,2,3,2,2,2,1,0,0,0,0,1,0
+T-1574,Mariam hossam eldin mohamed amin,75,2025,8,19,T-1574.pdf,False,2,0,1,2,1,0,5,4,1,2,7,2
+T-1575,Shaimaa Mohamad Elbadrawy,99,2025,8,19,T-1575.pdf,False,2,2,2,2,3,0,0,0,0,0,2,1
+T-1602,abdelrhman ali mohamed ali,92,2025,8,19,T-1602.pdf,False,3,1,0,1,2,0,0,1,1,2,5,2
+T-1604,Khaled ibrahim el sayed mohamed,78,2025,8,19,T-1604.pdf,False,2,2,1,2,0,2,1,1,1,3,9,0
+T-1640,Rahma Ayman Ali Hassan,97,2025,8,19,T-1640.pdf,False,2,2,1,2,2,0,1,0,0,0,3,2
+T-1642,Mina Adel Louiz Matta Guirges,96,2025,8,19,T-1642.pdf,False,1,2,1,4,1,1,2,1,0,0,4,0
+T-1680,Nour Ahmed Hassan Elkhiat,94,2025,8,19,T-1680.pdf,False,2,2,1,2,2,2,4,0,0,1,4,0
+T-1681,Amr Ahmed El-Sayed Ahmed,91,2025,8,19,T-1681.pdf,False,2,2,2,1,2,1,2,0,0,2,3,1
+T-1683,Yehia Mohamed Hesham Mohamed,97,2025,8,19,T-1683.pdf,False,2,2,1,2,2,1,0,1,2,0,3,0
+T-1689,Abdelrahman Ahmed Ibrahim Ali,87,2025,8,19,T-1689.pdf,False,3,1,1,2,1,1,3,3,2,1,3,0
+T-1706,Youssef Ahmed ELSayed Ahmed,89,2025,8,19,T-1706.pdf,False,2,0,0,1,0,1,1,2,1,3,4,1
+T-1708,Hoda Sherif Issa Abd El-Aziz,95,2025,8,19,T-1708.pdf,False,2,2,2,2,2,1,2,1,0,2,4,0
+T-1709,Youssef Bassam Ibrahim Hassan,98,2025,8,19,T-1709.pdf,False,2,2,2,2,2,0,1,0,0,0,3,1
+T-1782,Thowayba ashraf abd elaziz elemem,98,2025,8,19,T-1782.pdf,False,4,2,2,2,1,1,1,0,0,1,2,0
+T-1798,Dalia Abdelrapuf Hefzy Metwally,97,2025,8,19,T-1798.pdf,False,2,2,1,2,1,1,1,0,0,0,3,0
+T-1810,Soad omar yousef Sharkawy,99,2025,8,19,T-1810.pdf,False,2,2,2,2,2,2,1,0,0,0,1,0
+T-1814,Hager Elsayed Mohamed kashkash,97,2025,8,19,T-1814.pdf,False,2,2,1,3,3,0,0,1,0,1,3,2
+T-1858,Shehab Emad Ali Abdelall,93,2025,8,19,T-1858.pdf,False,2,2,1,2,1,1,1,2,0,1,5,0
+T-1928,Abdalla Ahmed Abdalla Konsowa,98,2025,8,19,T-1928.pdf,False,3,2,1,3,6,1,2,1,1,0,1,1
+T-1929,Amira fayez mohamed mohamed gomaa,100,2025,8,19,T-1929.pdf,True,3,2,2,2,3,0,0,0,0,0,0,0
+T-1940,Doha Ahmed Morsy Mohammed,93,2025,8,19,T-1940.pdf,False,2,1,2,2,2,2,1,3,0,0,1,0
+T-1966,Muhammed Ibrahim Muhammed Muhammed,98,2025,8,19,T-1966.pdf,False,4,3,2,2,1,0,1,2,0,0,2,1
+T-2068,Omar Nasser Mohy Hamed,87,2025,8,19,T-2068.pdf,False,1,0,0,1,0,2,3,4,1,1,5,0
+T-2070,Kyrollos Essam Talaat Ghali,96,2025,8,19,T-2070.pdf,False,2,1,1,1,3,1,1,1,0,0,3,0
+T-2074,Marah Mahmoud Gaber Mahmoud,99,2025,8,19,T-2074.pdf,False,2,2,1,2,1,1,0,0,0,0,2,1
+T-2079,Mariam Hussien Mohamed Elrafie,94,2025,8,19,T-2079.pdf,False,4,2,2,2,2,1,2,1,0,2,4,0
+T-2082,Ali Mostafa Ahmad Alkhashen,98,2025,8,19,T-2082.pdf,False,4,2,2,2,2,0,2,0,0,0,1,1
+T-2083,Maria Ehab Shafik Riad,100,2025,8,19,T-2083.pdf,True,2,2,2,2,2,2,0,0,0,0,0,0
+T-2087,Ahmed Salah Ahmed Helmy,98,2025,8,19,T-2087.pdf,False,2,2,0,2,2,2,0,0,1,0,2,0
+T-2093,Kareem Mohamed Abd El-Shakour Abd El-Hamid,96,2025,8,19,T-2093.pdf,False,1,2,1,1,2,0,3,0,0,2,1,2
+T-2096,Mohamed Adel Fahmy Hassan,97,2025,8,19,T-2096.pdf,False,1,2,1,2,0,1,3,1,0,0,2,1
+T-2100,Amira Hesham Mohamed Mo'men,95,2025,8,19,T-2100.pdf,False,3,1,1,2,2,2,2,1,0,1,2,0
+T-2101,Mariam Ahmed Said Abd Al Ghaffar,98,2025,8,19,T-2101.pdf,False,0,2,0,2,2,0,4,0,2,0,1,2
+T-2117,KHALED ASHRAF MOHAMED ELSARTA,95,2025,8,19,T-2117.pdf,False,1,2,1,2,2,1,3,1,0,1,3,0
+T-2123,Tarek Gamal Seddik Ibrahim,98,2025,8,19,T-2123.pdf,False,1,2,1,2,1,1,2,0,0,1,1,0
+T-2125,Reham Said Mohamed Reda Elshakra,100,2025,8,19,T-2125.pdf,True,2,4,2,2,1,1,0,0,0,0,0,0
+T-2128,Al-sayed esmail aboelyazed mohamed al-agamy,90,2025,8,19,T-2128.pdf,False,2,2,0,0,0,1,0,0,0,2,7,1
+T-2340,Ibtihal Malik ELNasser Sayed Ahmed,98,2025,8,19,T-2340.pdf,False,2,2,1,2,2,2,1,0,0,3,1,0
+T-2433,Yasser Mohamed Metwally Salem,91,2025,8,19,T-2433.pdf,False,3,1,0,2,1,1,2,2,4,0,5,1
+T-2713,Shams Gamal Abdelazeem Elnayad,96,2025,8,19,T-2713.pdf,False,1,2,1,1,0,1,1,0,1,1,3,0
+T-2765,Fatma Abdelatty Sayed Abdelatty,99,2025,8,19,T-2765.pdf,False,1,2,1,2,2,2,1,0,0,0,1,0
+T-3245,Salma ahmed essa hassan,98,2025,8,19,T-3245.pdf,False,2,3,2,2,2,1,0,1,0,1,1,0
+T-3423,Yara Essameldin Abdelaziz Youssef,97,2025,8,19,T-3423.pdf,False,2,2,0,3,2,2,0,0,1,2,3,0
+T-3633,Mohamed Ashraf Ahmed Ebrahim,96,2025,8,19,T-3633.pdf,False,3,2,1,4,0,3,4,3,0,1,5,0
+T-3906,Areege Samir,98,2025,8,19,T-3906.pdf,False,2,2,0,2,2,1,1,0,0,0,2,1
+T-3910,Abdelrahman Mahmoud Abdelrahman Mahmoud,95,2025,8,19,T-3910.pdf,False,2,2,1,1,1,0,1,1,0,0,5,2
+T-3915,Alaa Taha Ahmed Taha,99,2025,8,19,T-3915.pdf,False,2,2,2,2,2,2,0,0,0,0,2,0
+T-3916,Toqa Mohammed Abo Bakr Elsherif,95,2025,8,19,T-3916.pdf,False,1,2,0,2,4,2,3,2,0,1,3,0
+T-3917,Mariem Ahmed,100,2025,8,19,T-3917.pdf,True,2,2,2,2,2,2,0,0,0,0,0,0
+T-3922,Mohamed Saeed Taha Mahmoud,98,2025,8,19,T-3922.pdf,False,1,2,2,2,2,0,2,1,0,0,1,1
+T-3924,Abdelrahman Talaat Hashem Abdelgayed,97,2025,8,19,T-3924.pdf,False,0,2,1,2,2,1,2,2,0,0,2,1
+T-3956,Nour Mohamed Raafat El_Tabei,97,2025,8,19,T-3956.pdf,False,2,2,1,3,1,2,0,0,0,1,6,0
+T-3965,Salma Mohamed Mohamed Elshreif,98,2025,8,19,T-3965.pdf,False,2,2,1,3,1,2,0,0,0,0,4,0
+T-3975,Nada Ibrahim Al-Sayed Ibrahim,99,2025,8,19,T-3975.pdf,False,2,2,1,4,2,2,1,2,0,0,1,0
+T-4006,John Medhat Kamal Azer,98,2025,8,19,T-4006.pdf,False,2,2,2,2,2,2,1,0,0,2,2,0
+T-4007,Renad Ibrahim Zain Al-abdeen Mohamed,99,2025,8,19,T-4007.pdf,False,2,2,0,4,2,1,0,0,1,0,2,1
+T-4035,Amany Labeeb Elsayed Esmail,93,2025,8,19,T-4035.pdf,False,2,2,1,1,2,2,0,1,0,3,6,0
+T-4045,Hagr Seif El-Den Mohamed Adb El-Rahman,100,2025,8,19,T-4045.pdf,True,1,1,1,1,1,1,0,0,0,0,0,0
+T-4048,Enas Ibrahim Mohamed,94,2025,8,19,T-4048.pdf,False,3,2,1,5,2,2,1,0,0,2,5,0
+T-4053,Hadeer Hamdy Mohamed,95,2025,8,19,T-4053.pdf,False,2,2,2,2,2,1,0,0,0,0,6,1
+T-4063,Nourhan Mohamed Ahmed Mohamed,98,2025,8,19,T-4063.pdf,False,3,2,1,3,2,2,2,0,0,1,2,0
+T-4076,Eman Mohamed Kamel Ahmed,99,2025,8,19,T-4076.pdf,False,2,2,1,3,2,2,0,0,0,2,2,0
+T-4079,Alaa Reda Abd el-hamed metwally,100,2025,8,19,T-4079.pdf,True,2,2,2,2,4,2,0,0,0,0,0,0
+T-4087,Mayar Maher Rashad Gad,95,2025,8,19,T-4087.pdf,False,2,2,0,4,1,2,1,0,1,0,4,0
+T-4089,Sara Waled Said Elhag,96,2025,8,19,T-4089.pdf,False,2,2,1,2,2,2,2,0,0,1,3,0
+T-4092,Ahmed Samir Sabir Elzoghby,100,2025,8,19,T-4092.pdf,False,3,2,2,2,4,1,1,0,0,0,0,1
+T-4097,Mona Yasser Zaki Mahmoud,99,2025,8,19,T-4097.pdf,False,2,1,2,2,1,1,1,0,0,0,1,1
+T-4101,Abdelrahman Gamal Sobhi Ibrahim,97,2025,8,19,T-4101.pdf,False,2,2,2,3,1,0,0,1,0,0,3,4
+T-4102,Rawan Hussein Elshahat Amin,97,2025,8,19,T-4102.pdf,False,2,1,1,3,2,2,0,1,0,1,3,0
+T-4105,Rewan Ramadan Abdelaziz Abdelrady,98,2025,8,19,T-4105.pdf,False,3,2,2,2,3,1,1,1,0,0,2,0
+T-4106,Tasneem Hatem wafeek Elazaby,97,2025,8,19,T-4106.pdf,False,3,2,2,2,3,2,4,3,1,0,0,0
+T-4118,Habiba Mahmoud Mohamed Mahmoud,98,2025,8,19,T-4118.pdf,False,2,1,2,2,2,1,0,1,1,0,2,1
+T-4128,Yassa Kamille Abdullatif Fetian,95,2025,8,19,T-4128.pdf,False,3,2,2,1,2,2,0,0,1,1,5,0
+T-4129,Alaa Mosaad Zain Elabdeen Mohamed,97,2025,8,19,T-4129.pdf,False,3,2,2,3,3,2,1,0,0,0,3,0
+T-4133,Ziad Ayman Mohammed Mohammed,96,2025,8,19,T-4133.pdf,False,3,2,0,4,2,1,1,0,1,0,3,1
+T-4138,Fatma Sobhy Mostafa Ali Anis,100,2025,8,19,T-4138.pdf,False,3,2,1,3,4,2,0,0,1,0,0,0
+T-4140,Ahmed Shams Ahmed Omran,100,2025,8,19,T-4140.pdf,False,2,2,2,2,3,2,0,0,0,0,1,0
+T-4145,Alaa Mohamed Hammad,95,2025,8,19,T-4145.pdf,False,2,2,1,1,1,1,0,0,1,1,4,2
+T-4150,Habiba Saber Hashem,97,2025,8,19,T-4150.pdf,False,2,1,1,0,1,1,1,1,0,1,2,1
+T-4151,Youssef Samy Mohamed Aly,100,2025,8,19,T-4151.pdf,False,3,2,2,3,4,1,0,1,0,0,1,1
+T-4153,Huda Hamed Mostafa Hamed,95,2025,8,19,T-4153.pdf,False,1,2,2,2,3,1,0,0,0,2,2,1
+T-4156,Kareem Saber Abdelmeniem Abdelwahab,96,2025,8,19,T-4156.pdf,False,2,2,1,2,1,1,1,1,0,0,3,1
+T-4160,Fatma Mohamed Elsayed Abdel-maboud,98,2025,8,19,T-4160.pdf,False,2,2,1,2,2,2,0,0,0,1,2,0
+T-4162,Marwa Mohamed Fouad Okasha,94,2025,8,19,T-4162.pdf,False,4,2,1,3,2,1,2,1,1,0,5,1
+T-4163,Omar Mohamed Fawzy Hassan,94,2025,8,19,T-4163.pdf,False,3,2,2,2,3,0,6,3,0,0,3,2
+T-4165,Ahmed Youssef Ahmed Youssef,97,2025,8,19,T-4165.pdf,False,3,1,1,2,2,1,0,1,1,0,4,1
+T-4166,Amena Mohammed Youssef Mahmoud,97,2025,8,19,T-4166.pdf,False,2,2,0,0,4,1,1,0,1,2,1,0
+T-4168,Juliana Wael Shawky Gobran,96,2025,8,19,T-4168.pdf,False,2,1,2,2,0,1,0,2,0,0,3,1
+T-4169,Reem Atef Abd El-Twab,96,2025,8,19,T-4169.pdf,False,2,0,0,2,1,2,0,1,0,0,5,0
+T-4170,Nada Abd El Zein Abd El Megid Galeb,98,2025,8,19,T-4170.pdf,False,2,2,1,2,3,1,0,1,0,0,4,1
+T-4171,Mahmoud Mohammed Abd El Salam,98,2025,8,19,T-4171.pdf,False,1,0,1,1,1,1,1,1,0,0,0,0
+T-4172,Eslam Mohamed Sedeek Salem,100,2025,8,19,T-4172.pdf,False,4,2,2,2,2,2,1,0,0,0,1,0
+T-4174,Ahmed Atef Mohamed Kandil,100,2025,8,19,T-4174.pdf,False,2,2,0,3,0,2,0,0,1,0,2,0
+T-4177,Amal Taha Shaaban Mohamed,96,2025,8,19,T-4177.pdf,False,3,2,2,3,2,2,3,2,0,0,4,0
+T-4183,Nayera Hossam Mohamad Hassan,98,2025,8,19,T-4183.pdf,False,2,2,1,3,2,1,0,0,0,1,1,1
+T-4189,Ahmed Samir Mohamed Mohamed,100,2025,8,19,T-4189.pdf,False,4,3,2,2,3,1,0,0,0,0,1,0
+T-4191,Yasmine Hosny Hassan Mahmoud,98,2025,8,19,T-4191.pdf,False,3,2,1,4,2,2,1,0,0,0,2,0
+T-4196,Nariman mounir bushra wahba,97,2025,8,19,T-4196.pdf,False,2,2,0,3,3,3,0,0,2,0,1,0
+T-4203,Fatma Fathy Mohamed Mokhtar,98,2025,8,19,T-4203.pdf,False,2,2,1,2,3,2,1,0,0,0,5,0
+T-4213,Alaa Ali Hussein Mohamed,98,2025,8,19,T-4213.pdf,False,0,2,1,3,2,2,4,0,0,0,1,0
+T-4214,Ahmed Mohamed Ibrahim Ali,98,2025,8,19,T-4214.pdf,False,2,1,2,2,2,2,0,1,0,1,3,0
+T-4218,Mennatallah ashraf abdelhaleem,100,2025,8,19,T-4218.pdf,False,1,2,2,3,2,1,0,1,0,0,0,1
+T-4223,Reem Sayed Ahmed Mahmoud,99,2025,8,19,T-4223.pdf,False,2,2,1,2,1,2,0,1,0,0,1,0
+T-4235,Ahmed Emad,94,2025,8,19,T-4235.pdf,False,2,1,1,3,2,1,0,4,0,0,5,1
+T-4239,Fatma Mohamed Abdelmeneam Ahmed,98,2025,8,19,T-4239.pdf,False,2,2,2,2,3,2,0,0,0,0,3,0
+T-4247,Sara Atef Fawzy,96,2025,8,19,T-4247.pdf,False,4,2,1,3,3,3,1,3,0,0,3,0
+T-4652,Mo'men Mahmoud Gharib Hafez,96,2025,8,19,T-4262.pdf,False,2,1,2,2,2,1,4,1,0,1,3,0
+T-4263,Amr Khaled Mahmoud Mohmmed,98,2025,8,19,T-4263.pdf,False,2,2,1,4,2,2,0,0,0,1,3,0
+T-4265,Nourhan Elsayed Helmy Mahmoud,97,2025,8,19,T-4265.pdf,False,2,2,0,3,2,1,3,1,0,1,2,1
+T-4271,Reem Mahmoud Saleh Mohamed,99,2025,8,19,T-4271.pdf,False,2,2,0,3,4,1,0,0,2,0,1,1
+T-4272,Mostafa Ashraf Hassan Mohamed,98,2025,8,19,T-4272.pdf,False,2,2,1,2,2,2,2,1,0,0,3,0
+T-4286,Kholood Mohamed Abd Elgaber Mohamed,100,2025,8,19,T-4286.pdf,True,3,2,2,2,4,2,0,0,0,0,0,0
+T-4334,Nourelrahman Maher abdelrahman Ahmed,96,2025,8,19,T-4334.pdf,False,4,2,0,2,2,1,1,0,1,3,3,0
+T-4338,Estabrq Belal AbdElbasset Osman,99,2025,8,19,T-4338.pdf,False,1,1,1,1,1,0,0,0,0,0,1,0
+T-4348,Fawzy Ahmed Fawzy Ahmed,94,2025,8,19,T-4348.pdf,False,2,1,0,1,1,1,0,2,0,1,4,1
+T-4350,Shahd Ahmed Shookri Abd El Salam,99,2025,8,19,T-4350.pdf,False,3,2,1,3,2,2,0,0,1,2,0,0
+T-4351,Muhammad Saeed Saad Nour Eldin,97,2025,8,19,T-4351.pdf,False,3,2,1,2,3,2,1,0,1,0,3,0
+T-4354,Nada Hany Mohamed Abdulla,98,2025,8,19,T-4354.pdf,False,2,1,1,4,2,1,0,0,1,0,2,1
+T-4358,Rana Kamal Ahmed El Badry,93,2025,8,19,T-4358.pdf,False,2,2,2,3,4,1,1,2,1,1,9,1
+T-4368,Esraa Essam Hassan Abdulhady,92,2025,8,19,T-4368.pdf,False,1,1,0,1,1,2,2,2,0,0,7,0
+T-4374,Ahmad Essam Abd Alfattah Mahmoud,97,2025,8,19,T-4374.pdf,False,3,2,2,1,2,1,3,0,0,2,2,1
+T-4377,Yasmin Mohamed Awwad Emam,95,2025,8,19,T-4377.pdf,False,2,0,1,1,0,2,0,2,0,1,3,0
+T-4440,Maryam Muhammad Ibrahim Ibrahim,96,2025,8,19,T-4440.pdf,False,3,1,0,3,1,2,0,1,0,0,6,0
+T-4443,Mai Reda Abdulhamed Nawar,97,2025,8,19,T-4443.pdf,False,2,2,1,3,3,0,2,2,0,0,3,1
+T-4446,Diana tarek abdelsatttar oaf,98,2025,8,19,T-4446.pdf,False,3,2,1,3,1,2,1,0,1,0,1,0
+T-4448,Mohamed Reda Youssef Youssef,95,2025,8,19,T-4448.pdf,False,4,1,1,4,3,2,4,0,0,0,4,0
+T-4449,kirollos aziz galal aziz,100,2025,8,19,T-4449.pdf,False,3,2,2,2,3,1,1,0,0,1,0,0
+T-4450,Ola Issam Aldin Abdalfattah Radwan,90,2025,8,19,T-4450.pdf,False,2,0,1,3,1,0,0,5,0,1,4,2
+T-4459,Doha Abdelaal Zakaria Abdelaal,95,2025,8,19,T-4459.pdf,False,3,1,0,2,2,2,0,1,1,0,4,0
+T-4479,Aya Fathy Mohamed Ibrahim,98,2025,8,19,T-4479.pdf,False,2,2,2,2,2,2,3,0,0,0,1,0
+T-4485,Fatma Awad Ismail abdullah,96,2025,8,19,T-4485.pdf,False,2,2,1,2,2,1,2,0,2,0,4,0
+T-4491,Zainab Hossameldien Mustafa,99,2025,8,19,T-4491.pdf,False,1,2,1,2,1,2,2,0,0,0,1,0
+T-4496,Abdelrhman Fayez Ahmed El-bwadi,99,2025,8,19,T-4496.pdf,False,2,2,2,2,2,1,1,0,0,0,1,1
+T-4498,Nada Zakaria Mohamed Sayed,93,2025,8,19,T-4498.pdf,False,4,2,2,2,1,2,2,0,1,0,5,0
+T-4500,Menna T-Allah Ahmed Saeed Elmasry,100,2025,8,19,T-4500.pdf,False,2,2,1,4,3,2,0,1,0,0,2,0
+T-4504,Rahma Hashem Dahesh Abdulrahman,99,2025,8,19,T-4504.pdf,False,2,2,1,3,3,2,0,0,1,0,2,0
+T-4509,Walaa Youssef Adel Mohamed,97,2025,8,19,T-4509.pdf,False,2,1,2,1,1,2,0,1,0,1,4,0
+T-4512,Maryam Yasser Mahmoud Abdelmaksoud,98,2025,8,19,T-4512.pdf,False,2,2,1,2,1,2,0,0,0,0,3,0
+T-4514,Aya Ahmed Mohamed ElZoghby,100,2025,8,19,T-4514.pdf,True,2,2,2,2,2,2,0,0,0,0,0,0
+T-4519,Amal Yasser Arafa abdelaziz,96,2025,8,19,T-4519.pdf,False,4,2,2,2,2,1,2,0,0,1,2,2
+T-4522,Nesma Farid Mohamed Abdelrahman,98,2025,8,19,T-4522.pdf,False,2,3,2,3,1,1,0,1,0,2,1,0
+T-4526,AbdAllah Mostafa Mahmoud Alsayed,98,2025,8,19,T-4526.pdf,False,3,1,2,2,3,1,1,0,0,0,2,1
+T-4538,Marina Magdy abdou salama,95,2025,8,19,T-4538.pdf,False,3,3,2,2,3,2,2,0,1,1,3,0
+T-4541,Nour Allah Ahmed Abbas Khalil,98,2025,8,19,T-4541.pdf,False,2,2,1,3,2,2,0,0,0,0,4,0
+T-4545,Dai yaseen mohamed dawey,99,2025,8,19,T-4545.pdf,False,2,1,1,4,2,1,1,1,0,0,2,0
+T-4558,Viola George Kamal Mansour,99,2025,8,19,T-4558.pdf,False,2,2,1,4,3,2,0,0,1,0,0,0
+T-4562,Mennatullah Sayed Abo-ElHgag,99,2025,8,19,T-4562.pdf,False,2,2,1,3,3,1,2,0,0,0,0,0
+T-4563,Mayar Nasser Mahmoud,95,2025,8,19,T-4563.pdf,False,3,2,2,1,2,2,1,0,0,1,6,0
+T-4567,Amira Badawy Ismail Abouelezz,95,2025,8,19,T-4567.pdf,False,3,3,1,2,3,2,4,2,1,0,2,0
+T-4571,Nada Abdulraheem Abdulraheem Nour,97,2025,8,19,T-4571.pdf,False,2,2,1,1,2,0,1,1,1,1,1,2
+T-4585,Marina Mourad Nassif Garas,97,2025,8,19,T-4585.pdf,False,2,3,2,2,1,2,1,1,0,0,3,0
+T-4594,Sara Sameh Dabea Botros,99,2025,8,19,T-4594.pdf,False,2,2,0,3,1,1,1,0,0,0,2,1
+T-4602,Toqa khaled Desawe Mahmoud,98,2025,8,19,T-4602.pdf,False,3,3,1,3,2,1,2,3,0,0,1,1
+T-4604,salma alaa abdalraouf qassem,95,2025,8,19,T-4604.pdf,False,2,1,1,3,2,2,1,2,0,0,5,0
+T-4613,Ahmed Mohamed Aboamra Ali,100,2025,8,19,T-4613.pdf,False,5,2,2,2,5,2,1,0,0,0,0,0
+T-4620,Youssef Mohamed Ahmed El-Sayed,95,2025,8,19,T-4620.pdf,False,2,1,0,1,2,2,1,3,1,3,1,0
+T-4623,Mena Allah Salah Salem Elshahwey,95,2025,8,19,T-4623.pdf,False,3,2,0,2,2,1,2,0,0,2,4,1
+T-4625,aya rafaat metwaly metwaly,94,2025,8,19,T-4625.pdf,False,3,1,1,2,3,0,0,3,0,3,2,2
+T-4631,Yasmeen Mahmoud Samy Mahmoud,98,2025,8,19,T-4631.pdf,False,1,2,0,3,2,2,1,0,2,0,4,0
+T-4652,Mo'men Mahmoud Gharib Hafez,96,2025,8,19,T-4652.pdf,False,2,1,2,2,2,1,4,1,0,1,3,0
+T-4666,Kerolos Assad Shamloul Fekry,99,2025,8,19,T-4666.pdf,False,2,2,2,3,3,2,0,0,0,0,2,0
+T-4670,Ahmed Tarek Mohamed Abd El-Razik,98,2025,8,19,T-4670.pdf,False,2,2,1,3,2,0,1,0,0,1,2,1
+T-4679,Mohamed Hamed Dardeer Ali,94,2025,8,19,T-4679.pdf,False,2,1,2,2,2,2,0,2,0,0,4,0
+T-4692,Amira Magdy Mohamed Abdelkader,100,2025,8,19,T-4692.pdf,False,2,2,2,1,1,2,0,0,0,1,1,0
+T-4693,Marwa Mohammed Elsayed Mohammed,97,2025,8,19,T-4693.pdf,False,2,2,1,1,2,2,0,2,0,0,2,0
+T-4694,Nancy Alaa Fawzy Mouris,97,2025,8,19,T-4694.pdf,False,2,3,1,2,2,2,0,1,0,1,2,0
+T-4999,Lena Wael Mohamed Hassan,97,2025,8,19,T-4999.pdf,False,2,2,1,2,2,1,2,0,0,1,4,1
+T-5007,Omar Ayman AbuBakr AbuBakr Mohamed,99,2025,8,19,T-5007.pdf,False,2,2,1,2,3,2,0,0,0,0,5,0
+T-5015,Mennatulla Hisham Shaaban,100,2025,8,19,T-5015.pdf,False,2,2,1,2,2,1,0,0,0,0,1,2
+T-5019,Noha Adel Ibraheem El-Basiouny,96,2025,8,19,T-5019.pdf,False,1,1,0,4,0,1,2,1,0,2,6,1
+T-5020,Mariam Ahmed Elsheikh,97,2025,8,19,T-5020.pdf,False,2,2,1,2,1,2,2,0,0,0,4,0
+T-5028,Ereeny Adel Dahy Nageeb,96,2025,8,19,T-5028.pdf,False,2,2,1,3,3,1,1,0,1,0,4,1
+T-5029,Hanan Sameh Hasan ElSherif,88,2025,8,19,T-5029.pdf,False,3,2,0,2,2,2,3,0,2,2,7,0
+T-5037,Amr Mohamed Moaz Mounayer,95,2025,8,19,T-5037.pdf,False,1,2,1,1,2,2,4,1,1,3,3,0
+T-5042,Shaza anssar mohamed ahmed,97,2025,8,19,T-5042.pdf,False,4,1,2,2,2,2,3,1,0,1,1,0
+T-5049,Abdullah Emad Fathallah Ahmed,100,2025,8,19,T-5049.pdf,False,3,2,2,2,5,0,0,0,0,0,0,1
+T-5054,Hager Yasser Ibraheim Sileem,96,2025,8,19,T-5054.pdf,False,2,2,1,2,3,0,1,1,1,1,3,2
+T-5070,Sarah Atif,98,2025,8,19,T-5070.pdf,False,2,2,2,1,1,1,0,1,0,0,2,1
+T-6229,Mohamed Mubarak,100,2025,8,19,T-6229.pdf,False,5,2,2,2,3,2,1,0,0,0,0,0
+T-6231,Mohamed Maher,100,2025,8,19,T-6231.pdf,False,3,2,1,2,3,2,0,0,0,0,1,0
+T-6233,Neda'a Eliwa,96,2025,8,19,T-6233.pdf,False,2,2,1,1,3,1,3,0,1,0,3,0
+T-6235,Tasneem Ahmed Alhelaly Alshal,99,2025,8,19,T-6235.pdf,False,2,2,2,1,2,2,1,0,0,1,1,0
+T-6236,Omar Abd El-Aleem,92,2025,8,19,T-6236.pdf,False,3,2,1,2,3,0,0,1,0,1,9,2
+T-6237,Mariam Essam,100,2025,8,19,T-6237.pdf,False,4,2,1,4,3,1,2,0,0,0,0,1
+T-6239,Mohammed Aborezka,99,2025,8,19,T-6239.pdf,False,3,2,2,2,3,1,0,0,0,0,2,1
+T-6245,Fatma Alzahraa Mansour,97,2025,8,19,T-6245.pdf,False,2,2,1,3,2,1,2,0,1,1,2,1
+T-6246,Mohammed Nabawy,93,2025,8,19,T-6246.pdf,False,1,1,0,1,0,0,0,0,1,2,1,1
+T-6249,Hamza AlaaElDin,92,2025,8,19,T-6249.pdf,False,2,1,1,1,2,0,1,2,0,1,4,2
+T-6259,Mohamed Hamdy,100,2025,8,19,T-6259.pdf,True,3,2,2,2,2,2,0,0,0,0,0,0
+T-6260,Ahmed Mohamed,98,2025,8,19,T-6260.pdf,False,3,2,2,4,3,1,0,0,0,1,4,1
+T-6266,Amal Hany,98,2025,8,19,T-6266.pdf,False,2,2,2,2,1,0,0,0,0,0,4,2
+T-6268,Saeed Nasr,91,2025,8,19,T-6268.pdf,False,2,1,1,2,1,2,1,2,0,2,6,0
+T-6270,Shahd Fathy,98,2025,8,19,T-6270.pdf,False,3,2,1,2,2,2,1,1,0,0,2,0
+T-6275,Basmala Mohamad,94,2025,8,19,T-6275.pdf,False,1,2,1,2,1,2,1,0,1,0,6,0
+T-6277,Yasmine Noor Mohamed,94,2025,8,19,T-6277.pdf,False,2,1,0,2,3,1,0,2,2,1,4,1
+T-6278,Bemin Dawoud,99,2025,8,19,T-6278.pdf,False,2,2,1,5,3,2,2,0,0,0,1,0
+T-6279,Ziad Ezzat,96,2025,8,19,T-6279.pdf,False,1,2,0,3,2,2,2,1,0,1,4,0
+T-6282,Nour El Dein Hany,95,2025,8,19,T-6282.pdf,False,2,2,1,2,2,2,5,0,2,0,2,0
+T-6287,Mohammed Adel,92,2025,8,19,T-6287.pdf,False,2,0,0,5,2,1,1,4,0,1,6,1
+T-6291,Hana Omar,91,2025,8,19,T-6291.pdf,False,4,1,2,2,2,2,2,4,0,0,5,0
+T-6298,Toka Sherif mohamed mahmud mustafa,93,2025,8,19,T-6298.pdf,False,2,2,0,2,2,2,2,2,3,2,2,0
+T-6299,Abdelrahman Mohamed,97,2025,8,19,T-6299.pdf,False,2,1,1,2,1,1,0,2,0,0,3,1
+T-6306,Habeba Ahmed Elmorsy Eldesocky,100,2025,8,19,T-6306.pdf,False,3,2,0,2,4,2,0,0,1,0,0,0
+T-6307,Rwan Sameh Helmy Abdellatif,94,2025,8,19,T-6307.pdf,False,2,1,0,4,1,2,0,3,0,1,6,0
+T-6405,Mariam Ibrahim Mohamed Ahmed,96,2025,8,19,T-6405.pdf,False,2,2,2,2,1,0,1,2,0,1,3,0
+T-6424,Hassan Mohamed Hassan Abdelrahman Sherif,96,2025,8,19,T-6424.pdf,False,2,1,0,3,2,1,0,1,1,1,2,0
+T-7017,Moatasem mohie el-dein farghaly ali,96,2025,8,19,T-7017.pdf,False,3,2,2,0,2,2,0,0,0,1,5,0
+T-7028,Mennatullah Mousa Eways Muhammed,98,2025,8,19,T-7028.pdf,False,3,3,1,4,2,2,4,1,0,0,1,0
+T-7033,Rita magdy,93,2025,8,19,T-7033.pdf,False,3,1,1,0,3,1,0,2,1,4,4,1
+T-7034,Aya Ahmed Ghobashy,97,2025,8,19,T-7034.pdf,False,1,2,0,4,1,2,1,1,0,0,6,0
+T-7037,Kawkab Gamal Ebrahim Ebrahim,96,2025,8,19,T-7037.pdf,False,4,2,2,2,3,0,1,0,0,0,6,2
+T-7040,Mona Ahmed Abd El Azim Hassan,97,2025,8,19,T-7040.pdf,False,2,2,2,2,3,2,1,0,0,0,2,0
+T-7041,zaynab salah mohamed elsayed,96,2025,8,19,T-7041.pdf,False,3,2,0,1,3,2,0,1,1,1,2,0
+T-7043,Rania Abdulmgeed Ismail Mostafa,91,2025,8,19,T-7043.pdf,False,5,4,2,3,2,2,2,1,1,1,11,0
+T-7044,Marwa Asaad Saeed Ahmed,97,2025,8,19,T-7044.pdf,False,2,1,1,2,1,2,0,2,0,0,2,0
+T-7047,Ahmed Gamal Eldesawy Ahmed Elabd,96,2025,8,19,T-7047.pdf,False,2,2,2,0,3,0,0,1,0,2,4,0
+T-7048,Alaa Saber Abdelhakeem Elsayed,99,2025,8,19,T-7048.pdf,False,3,2,2,3,3,1,0,0,0,0,2,0
+T-7060,Shaimaa Sabry Soliman saedwy,99,2025,8,19,T-7060.pdf,False,3,2,1,2,1,0,0,0,0,1,0,2
+T-7069,Omar Abdelwahab abdou Elmorsy,97,2025,8,19,T-7069.pdf,False,3,2,2,3,2,1,2,1,0,0,4,1
+T-7070,Engy Mohamed Mohamed Salem,94,2025,8,19,T-7070.pdf,False,2,3,2,2,1,1,1,3,0,1,3,0
+T-7076,Hadeer Maher Ahmed Awad,99,2025,8,19,T-7076.pdf,False,2,2,2,2,4,1,1,0,0,0,2,0
+T-7078,Mahmoud Soliman Ibrahim Mesalem,98,2025,8,19,T-7078.pdf,False,3,2,1,3,3,2,0,1,0,1,2,0
+T-7216,Sondos Mohamed - T-7216,100,2025,8,19,T-7216.pdf,True,1,1,1,1,1,1,0,0,0,0,0,0
+T-7219,fadwa radwan,98,2025,8,19,T-7219.pdf,False,2,2,2,2,3,1,3,1,0,1,0,1
+T-7220,Asmaa Elmandouh,100,2025,8,19,T-7220.pdf,False,3,2,2,3,4,2,2,0,0,0,0,0
+T-7221,Ahmed Shawky,95,2025,8,19,T-7221.pdf,False,3,1,1,1,2,1,0,4,0,2,2,1
+T-7223,Alaa Oraby,97,2025,8,19,T-7223.pdf,False,2,1,1,4,2,1,1,1,2,1,2,1
+T-7225,Pancee Muhammad Ayad,100,2025,8,19,T-7225.pdf,False,2,2,1,4,3,2,0,0,0,0,1,0
+T-7229,Steven Hany,96,2025,8,19,T-7229.pdf,False,4,3,3,3,0,2,1,2,0,1,5,0
+T-7230,Ahmed Abdelqawi,100,2025,8,19,T-7230.pdf,False,2,3,2,2,2,1,1,0,0,0,0,0
+T-7233,Sara Abozeed,98,2025,8,19,T-7233.pdf,False,3,2,1,2,1,1,1,0,1,0,2,1
+T-7246,Naseem Masoud,98,2025,8,19,T-7246.pdf,False,2,2,1,2,1,2,2,0,0,0,3,0
+T-7251,Sara Waleed,100,2025,8,19,T-7251.pdf,False,2,2,2,2,2,2,0,0,0,0,1,0
+T-7254,Nesreen Elshazly,99,2025,8,19,T-7254.pdf,False,1,1,0,1,1,1,0,0,0,0,2,0
+T-7255,Aia Almahrok,100,2025,8,19,T-7255.pdf,False,3,3,2,2,3,1,0,0,0,0,1,0
+T-7256,Mariam Mohamed,100,2025,8,19,T-7256.pdf,False,3,2,2,2,4,1,0,0,0,1,0,0
+T-7259,Abdelrahman Mohamed Ahmed Osman,100,2025,8,19,T-7259.pdf,True,3,2,2,3,4,1,0,0,0,0,0,0
+T-7272,Sherouk Hatem,93,2025,8,19,T-7272.pdf,False,2,2,2,2,1,1,1,2,0,1,2,0
+T-7273,Youssef Mahmoud,98,2025,8,19,T-7273.pdf,False,2,1,2,3,3,1,0,1,0,0,2,0
+T-7275,Abdallah Abdallah,88,2025,8,19,T-7275.pdf,False,3,1,2,2,3,0,0,2,1,1,7,1
+T-7276,Viola Amin,98,2025,8,19,T-7276.pdf,False,2,2,1,2,2,2,3,2,0,0,1,0
+T-7290,Sarah AboBakkr,97,2025,8,19,T-7290.pdf,False,2,3,2,2,1,1,1,1,1,0,2,1
+T-7299,Abdullatif Ahmed Mohammed,99,2025,8,19,T-7299.pdf,False,3,2,2,2,3,1,0,2,0,0,0,2
+T-7301,Asmaa Saad,98,2025,8,19,T-7301.pdf,False,0,1,0,1,1,1,1,0,0,0,1,0
+T-7308,Noha El-Menshawy,99,2025,8,19,T-7308.pdf,False,3,2,2,4,3,2,0,0,0,2,1,0
+T-7309,Menna Tarek,92,2025,8,19,T-7309.pdf,False,2,2,3,1,1,1,2,2,0,2,4,1
+T-7322,Ahmed Sabra,95,2025,8,19,T-7322.pdf,False,3,2,2,1,2,2,0,2,0,2,2,0
+T-8112,Taghreed Samir,98,2025,8,19,T-8112.pdf,False,2,2,0,4,1,0,0,1,0,0,2,1
+T-8113,Basel Owais,96,2025,8,19,T-8113.pdf,False,2,2,2,2,0,1,0,0,0,3,3,1
+T-8119,Hussam El Deen Ahmed,82,2025,8,19,T-8119.pdf,False,3,2,0,2,0,1,0,1,3,3,10,1
+T-8130,Youssef Wagdy,99,2025,8,19,T-8130.pdf,False,2,2,2,3,2,1,1,1,0,0,1,0
+T-8377,Habeba Abdelhady Mohamed Ahmed,100,2025,8,19,T-8377.pdf,False,4,2,2,2,2,1,2,0,0,0,1,0
+T-8378,Sara Youssef,96,2025,8,19,T-8378.pdf,False,3,2,2,2,3,1,0,1,0,1,4,1
+T-8380,Reham Sobhy hamdy,94,2025,8,19,T-8380.pdf,False,3,2,3,1,2,1,0,1,0,2,3,2
+T-8383,Radwa Ashraf Mohamed Elsaman,95,2025,8,19,T-8383.pdf,False,2,2,1,1,0,2,1,1,0,1,4,1
+T-8384,Dareen Mohamed Farouk,90,2025,8,19,T-8384.pdf,False,2,2,2,0,2,1,5,2,0,2,4,1
+T-8385,Ansary Gadallah Shehata Alansary,91,2025,8,19,T-8385.pdf,False,2,2,3,2,2,1,0,6,0,3,3,0
+T-8388,Shahd Ashraf Sayed Ahmed,94,2025,8,19,T-8388.pdf,False,2,2,1,2,3,0,1,3,1,0,4,2
+T-8389,Esraa Muhammad abdelhady abdelhay,95,2025,8,19,T-8389.pdf,False,2,1,1,2,1,0,1,4,0,1,2,3
+T-8390,Mervat Magdy Ibrahim Maghawry,99,2025,8,19,T-8390.pdf,False,3,2,2,3,3,1,0,1,0,0,2,0
+T-8392,Mostafa Eid Hassan Naeem,95,2025,8,19,T-8392.pdf,False,2,1,2,3,1,0,0,2,0,1,4,3
+T-8393,Germin Samaan Gadallah Samaan,97,2025,8,19,T-8393.pdf,False,2,3,1,2,2,1,0,1,0,0,3,0
+T-8394,Rehab Khaled Fathy Elesawy,92,2025,8,19,T-8394.pdf,False,4,2,1,1,3,1,0,2,0,1,4,1
+T-8395,Olfat Rady Abdeljwad,99,2025,8,19,T-8395.pdf,False,2,2,1,2,3,2,1,0,1,0,1,0
+T-8398,Ashrakat Hossien,98,2025,8,19,T-8398.pdf,False,3,2,1,4,4,1,0,0,1,1,1,1
+T-8413,Yasser Darwish Mohamed Ahmed,98,2025,8,19,T-8413.pdf,False,2,2,1,4,2,2,0,0,0,0,4,0
+T-8414,Abdallah Osama Mohamed Taha,98,2025,8,19,T-8414.pdf,False,2,2,1,2,2,2,0,1,0,2,1,0
+T-8415,Mariam Samir Boshra Habashi,94,2025,8,19,T-8415.pdf,False,1,0,0,2,1,1,0,2,2,0,0,0
+T-8417,Thomas Maged Sedky Attallah,96,2025,8,19,T-8417.pdf,False,2,1,0,4,1,2,1,4,1,0,3,0
+T-8418,Ahmed Saad Mohamed Shanb,98,2025,8,19,T-8418.pdf,False,3,1,2,3,4,1,1,0,0,0,2,1
+T-8443,Abdelrahman Said Ahmed Said,99,2025,8,19,T-8443.pdf,False,2,2,2,1,1,0,0,0,0,1,1,0
+T-8446,Mariam Mahmoud Mohamed Diab,97,2025,8,19,T-8446.pdf,False,1,1,1,1,0,1,0,1,0,0,1,0
+T-8448,Norhan Farid Elsabbahy Youssef Elnady,95,2025,8,19,T-8448.pdf,False,1,1,1,2,1,1,1,2,0,0,2,0
+T-8451,Aalaa Adel Adam Addullah,97,2025,8,19,T-8451.pdf,False,1,1,0,2,0,1,0,0,0,0,1,0
+T-8452,Ruaa Mostafa Abdelazeem Qasem,97,2025,8,19,T-8452.pdf,False,1,2,0,2,0,1,1,2,0,0,3,0
+T-8672,Mohamed Mostafa,96,2025,8,19,T-8672.pdf,False,1,0,0,2,0,1,0,2,0,0,0,0
+T-8676,Amr El-Zayat,95,2025,8,19,T-8676.pdf,False,2,2,0,2,1,1,0,1,0,0,6,0
+T-8681,Heba Mohamed Salah,95,2025,8,19,T-8681.pdf,False,2,2,0,1,2,1,0,1,2,2,4,1
+T-8683,Mahmoud Mohamed,95,2025,8,19,T-8683.pdf,False,1,0,0,2,1,0,0,1,0,0,0,1
+T-8687,MennaAllah Hassan,97,2025,8,19,T-8687.pdf,False,1,1,0,0,1,1,0,1,0,0,1,0
+T-8690,Nada Elzamloot,97,2025,8,19,T-8690.pdf,False,2,2,0,3,1,2,0,2,0,1,4,0
+T-8693,Moamen Mahmoud Hammam Ali,88,2025,8,19,T-8693.pdf,False,2,0,1,0,0,0,1,2,0,1,5,1
+T-8696,Sara Adel Abdelrahman Mahmoud,98,2025,8,19,T-8696.pdf,False,2,1,0,4,2,2,0,2,0,0,3,0
+T-8698,adham tawfik,96,2025,8,19,T-8698.pdf,False,2,2,1,3,2,1,1,2,0,0,2,0
+T-8699,Sara Kamal,97,2025,8,19,T-8699.pdf,False,1,1,0,3,0,1,0,1,0,0,2,0
+T-8700,Shrouk Waled,91,2025,8,19,T-8700.pdf,False,2,0,1,2,2,1,1,2,2,2,4,1
+T-8705,Abdallah Ibrahem,93,2025,8,19,T-8705.pdf,False,2,1,0,3,2,2,0,4,2,0,4,0
+T-8708,Mayar Ali,93,2025,8,19,T-8708.pdf,False,2,2,0,3,1,1,0,2,1,1,5,1
+T-8709,Renad Eid,93,2025,8,19,T-8709.pdf,False,1,0,1,0,1,1,0,2,0,1,0,0
+T-8714,Ali El-bana,98,2025,8,19,T-8714.pdf,False,2,2,0,4,2,2,0,1,1,0,1,0
+T-8718,Ahmed ELSayed,96,2025,8,19,T-8718.pdf,False,1,1,0,1,1,1,0,0,0,1,2,0
+T-8727,Nada Abo amra,100,2025,8,19,T-8727.pdf,False,1,1,0,0,1,1,0,0,0,0,1,0
+T-8736,Salma Gamaal,94,2025,8,19,T-8736.pdf,False,1,1,0,2,1,1,0,1,0,0,2,0
+T-8744,Mazen ElGaml,97,2025,8,19,T-8744.pdf,False,3,1,2,2,4,2,0,2,0,0,3,0
+T-8747,Alaa Attia,100,2025,8,19,T-8747.pdf,True,2,2,1,2,2,2,0,0,0,0,0,0
+T-8748,Adel Aboelatta,97,2025,8,19,T-8748.pdf,False,2,2,1,3,2,1,0,0,0,0,4,0
+T-8752,Emily Essam,98,2025,8,19,T-8752.pdf,False,2,2,0,5,1,2,0,2,0,0,4,0
+T-8754,Rowida Mohamed,98,2025,8,19,T-8754.pdf,False,1,1,0,2,1,1,1,0,0,0,0,0
+T-8757,Arwa Madien,95,2025,8,19,T-8757.pdf,False,2,2,1,2,0,2,1,1,1,2,4,0
+T-8758,Mazen Elsaftawy,97,2025,8,19,T-8758.pdf,False,1,1,0,1,1,1,0,1,0,0,2,0
+T-8771,Passant Hossam Selim,97,2025,8,19,T-8771.pdf,False,2,2,0,2,2,2,1,4,0,1,4,0
+T-8804,Mohamed Hussein,97,2025,8,19,T-8804.pdf,False,2,2,1,4,3,1,0,2,0,1,4,1
+T-8807,Arwa Saad,94,2025,8,19,T-8807.pdf,False,1,1,1,2,1,1,0,2,1,0,2,0
+T-8808,Mona Mahmoud,98,2025,8,19,T-8808.pdf,False,1,1,0,1,1,0,0,0,0,1,1,1
+T-8809,Maryam Amer Ali,96,2025,8,19,T-8809.pdf,False,2,3,0,3,2,2,0,2,0,2,4,0
+T-8811,Nagham Ehab,96,2025,8,19,T-8811(1).pdf,False,3,2,1,1,1,2,0,1,0,3,4,0
+T-8811,Nagham Ehab,96,2025,8,19,T-8811.pdf,False,3,2,1,1,1,2,0,1,0,3,4,0
+T-8814,Mina Romany,96,2025,8,19,T-8814.pdf,False,1,0,0,3,1,1,1,1,1,1,1,0
+T-8815,Ezz Khalil,96,2025,8,19,T-8815.pdf,False,1,2,0,2,1,1,0,1,0,0,1,0
+T-8820,Asmaa Mohammed,97,2025,8,19,T-8820.pdf,False,1,1,0,1,1,1,0,0,1,0,0,0
+T-8821,John Hany,99,2025,8,19,T-8821.pdf,False,3,3,2,2,4,3,0,0,0,2,2,0
+T-8903,Islam Ali Elsayed Khattab,96,2025,8,19,T-8903.pdf,False,1,2,1,1,2,1,2,1,0,1,3,2
+T-8906,Tarek Yasser Mohamed Sharaf,81,2025,8,19,T-8906.pdf,False,3,0,3,1,1,1,4,14,2,2,5,1
+T-8909,Muhamed Sayed Saber Ali,93,2025,8,19,T-8909.pdf,False,1,2,1,1,2,1,2,1,1,1,7,0
+T-8913,Noha Omar Mahmoud Abd Elaziz,97,2025,8,19,T-8913.pdf,False,3,2,2,2,3,2,2,0,0,1,3,0
+T-8917,Kamel Hassan Kamel Soliman,93,2025,8,19,T-8917.pdf,False,2,2,1,1,1,1,1,1,1,2,3,0
+T-8918,Nourhan Alaa Eldien Hassan,95,2025,8,19,T-8918.pdf,False,2,1,1,2,1,2,0,2,1,0,4,0
+T-8927,Alyaa Mahmoud Ali Ahmed,98,2025,8,19,T-8927.pdf,False,2,2,1,2,1,1,0,0,1,1,2,0
+T-8928,Taha Elsayed Mahmoud abdel-Raziq,97,2025,8,19,T-8928.pdf,False,2,2,0,1,1,2,0,0,1,1,5,0
+T-8945,Hossam Eldeen Ali Sayed Ali,95,2025,8,19,T-8945.pdf,False,1,2,1,2,1,1,1,1,0,0,6,0
+T-8946,Moaz Mohamed Gharieb Elsayed,94,2025,8,19,T-8946.pdf,False,2,1,0,2,1,2,0,1,1,0,5,0
+T-8948,Aya Nagib Mohamed Zaid,98,2025,8,19,T-8948.pdf,False,2,2,0,2,1,1,0,0,0,1,2,1
+T-8949,Arwa Mostafa Kamal Abdul Wahab,92,2025,8,19,T-8949.pdf,False,1,0,1,1,2,2,1,4,0,2,6,0
+T-8954,Abdelwahab Mohamed,90,2025,8,19,T-8954.pdf,False,2,2,1,1,2,1,0,1,3,3,4,0
+T-8967,Omar Hossam Elden Galal Mohammed,92,2025,8,19,T-8967.pdf,False,2,0,0,2,0,2,0,1,2,0,6,0
+T-8972,Mohamed Adel Abdelhamied Mohamed,98,2025,8,19,T-8972.pdf,False,2,2,0,3,2,2,1,0,0,3,3,0
+T-8973,Tahani Saber Slama Ahmed,98,2025,8,19,T-8973.pdf,False,2,2,1,2,0,1,0,0,0,3,3,0
+T-8975,Omar Khaled Elsayed Elasmar,92,2025,8,19,T-8975.pdf,False,2,1,1,2,1,0,1,1,1,2,4,2
+T-8976,Ahmed Mohamed ElSayed Mahmoud,99,2025,8,19,T-8976.pdf,False,2,2,1,2,2,1,0,0,0,0,2,1
+T-8977,Dina Gamal-eldin Basher Ebrahim,98,2025,8,19,T-8977.pdf,False,2,1,1,2,2,2,0,2,0,1,2,0
+T-8978,Ayman Khaled Abdelfatah Yousef,98,2025,8,19,T-8978.pdf,False,4,2,2,2,2,0,2,0,0,0,3,1
+T-8979,Ahmed Ayed Mohamed Abd El Hai Hanafi,98,2025,8,19,T-8979.pdf,False,2,2,1,2,2,2,0,0,0,0,3,0
+T-8980,Ahmed Mohamed Farid Nagy,97,2025,8,19,T-8980.pdf,False,3,1,1,2,2,2,1,2,0,0,2,0
+T-8991,Nada Ahmed Fawzy Mohammed,98,2025,8,19,T-8991.pdf,False,3,2,1,2,3,1,0,0,0,1,3,1
+T-8994,Nourhan Abdelnasser Sedek Hamed,94,2025,8,19,T-8994.pdf,False,1,1,0,2,1,2,1,1,2,1,5,0
+T-9068,Nour Khaled Ali Sewafy,97,2025,8,19,T-9068.pdf,False,2,2,2,1,1,0,0,0,2,2,3,1
