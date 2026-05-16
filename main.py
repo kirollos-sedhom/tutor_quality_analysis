@@ -8,7 +8,7 @@ import shutil # helps move files
 # We import the specific functions from your new files
 from extract import extract_text_from_pdf
 from transform import transform_raw_text_to_record 
-
+from load import push_to_supabase
 
 def run_batch_pipeline():
     landing_zone = Path("./test_quality_reports/") 
@@ -68,6 +68,7 @@ def run_batch_pipeline():
                 header=not file_already_exists, 
                 encoding='utf-8-sig'
             )
+            push_to_supabase(df)
             logging.info(f"Successfully appended {len(df)} records to {output_file}")
             
             for pdf_path in valid_pdf_paths:

@@ -1,3 +1,4 @@
 quality\ reports/
 test_quality_reports/
 archive_quality_reports/
+.env
